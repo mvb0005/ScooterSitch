@@ -1,0 +1,2142 @@
+[
+  {
+    "id": 10066,
+    "name": "TTDS",
+    "battery_pct": 87,
+    "battery_pct_timestamp": null,
+    "hash": "df6209feca0e23ca96ff88d386a9068266606d7e",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RTTDS",
+    "last_status_update": "2018-11-25T23:49:50.175Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7453331,
+      "longitude": -105.0368775
+    }
+  },
+  {
+    "id": 9616,
+    "name": "FH5F",
+    "battery_pct": 57,
+    "battery_pct_timestamp": null,
+    "hash": "c345111833f3d7ca337f2f41265cce23ede86e27",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RFH5F",
+    "last_status_update": "2018-11-24T20:16:53.006Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7674968,
+      "longitude": -105.0335841
+    }
+  },
+  {
+    "id": 7069,
+    "name": "BMYM",
+    "battery_pct": 36,
+    "battery_pct_timestamp": null,
+    "hash": "0318c950ebc7f8e118fce8209e6d039d7cd4d01e",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RBMYM",
+    "last_status_update": "2018-11-25T21:52:55.503Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7299168,
+      "longitude": -104.985663
+    }
+  },
+  {
+    "id": 7027,
+    "name": "KZXD",
+    "battery_pct": 93,
+    "battery_pct_timestamp": null,
+    "hash": "2587d2456a9e785451b4228e7c8755f59f31a6a0",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RKZXD",
+    "last_status_update": "2018-11-25T20:19:25.474Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7450203,
+      "longitude": -105.0164073
+    }
+  },
+  {
+    "id": 9278,
+    "name": "C998",
+    "battery_pct": 99,
+    "battery_pct_timestamp": null,
+    "hash": "5a106392b98070601d5b7d526ee5223ce2ef7a65",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RC998",
+    "last_status_update": "2018-11-25T20:19:29.988Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7449908,
+      "longitude": -105.0164448
+    }
+  },
+  {
+    "id": 6779,
+    "name": "CFWU",
+    "battery_pct": 81,
+    "battery_pct_timestamp": null,
+    "hash": "f9f25b2c422cd2dd545012fb3599dfab63e726ba",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RCFWU",
+    "last_status_update": "2018-11-25T18:00:00.609Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7595715,
+      "longitude": -105.0130136
+    }
+  },
+  {
+    "id": 7007,
+    "name": "VRCU",
+    "battery_pct": 83,
+    "battery_pct_timestamp": null,
+    "hash": "f9bc7db8b305daf8017f5f4fdb91dcc200ddc51f",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RVRCU",
+    "last_status_update": "2018-11-25T23:54:40.543Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7535122884808,
+      "longitude": -105.023769596689
+    }
+  },
+  {
+    "id": 9447,
+    "name": "AKKN",
+    "battery_pct": 65,
+    "battery_pct_timestamp": null,
+    "hash": "9b9d5def53fa44164e0c014ebe1c2edb0522b34b",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RAKKN",
+    "last_status_update": "2018-11-21T23:48:50.847Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7549906,
+      "longitude": -104.9808853
+    }
+  },
+  {
+    "id": 9096,
+    "name": "N9JS",
+    "battery_pct": 96,
+    "battery_pct_timestamp": null,
+    "hash": "f2dbb5a5ea1220e1c1d9d1c692df0d666804a57a",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RN9JS",
+    "last_status_update": "2018-11-25T22:25:41.307Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.753574,
+      "longitude": -104.995111
+    }
+  },
+  {
+    "id": 9018,
+    "name": "MNBH",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "c76438a1bae8c57c0021cb030fadfbdcad34da28",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RMNBH",
+    "last_status_update": "2018-11-25T20:22:28.150Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7428591,
+      "longitude": -105.015977
+    }
+  },
+  {
+    "id": 10064,
+    "name": "F629",
+    "battery_pct": 75,
+    "battery_pct_timestamp": null,
+    "hash": "dda27c7984e08d80cdd4e0596651a6b73ab6eb70",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RF629",
+    "last_status_update": "2018-11-26T00:29:32.099Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7471858,
+      "longitude": -104.994437
+    }
+  },
+  {
+    "id": 9608,
+    "name": "U2FG",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "4a07730ff95b19ea077e97754b895d9be951e85b",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RU2FG",
+    "last_status_update": "2018-11-22T19:20:09.200Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7270251,
+      "longitude": -104.9949523
+    }
+  },
+  {
+    "id": 10067,
+    "name": "ASIO",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "540923956e268d7a7b32af54bb3c8660526d0096",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RASIO",
+    "last_status_update": "2018-11-25T22:25:08.384Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7535656,
+      "longitude": -104.9951538
+    }
+  },
+  {
+    "id": 6829,
+    "name": "O39S",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "62cc760f61b1401b90581ed887b63ead39203aaa",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RO39S",
+    "last_status_update": "2018-11-25T15:35:50.032Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7619593,
+      "longitude": -105.0162816
+    }
+  },
+  {
+    "id": 9094,
+    "name": "APDK",
+    "battery_pct": 61,
+    "battery_pct_timestamp": null,
+    "hash": "5768206d7aa9ec225cd8cb19f31ecbdf45480ab1",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RAPDK",
+    "last_status_update": "2018-11-25T23:59:50.773Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7672185,
+      "longitude": -105.0370558
+    }
+  },
+  {
+    "id": 7308,
+    "name": "PPCO",
+    "battery_pct": 72,
+    "battery_pct_timestamp": null,
+    "hash": "e70e1cf434b8b015753c21d4d3716b404653f2a4",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RPPCO",
+    "last_status_update": "2018-11-23T14:37:22.192Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7442255,
+      "longitude": -104.9791445
+    }
+  },
+  {
+    "id": 6861,
+    "name": "T78R",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "8e0e6a42dc91dddb9134f7a1e5127596ad56daea",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RT78R",
+    "last_status_update": "2018-11-25T23:01:12.822Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7570663,
+      "longitude": -104.9993636
+    }
+  },
+  {
+    "id": 6907,
+    "name": "U3JD",
+    "battery_pct": 87,
+    "battery_pct_timestamp": null,
+    "hash": "5cace06d374f0a124bf2104027c0c2db23ed1022",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RU3JD",
+    "last_status_update": "2018-11-25T22:20:25.671Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7476843,
+      "longitude": -105.0188626
+    }
+  },
+  {
+    "id": 9114,
+    "name": "N4BK",
+    "battery_pct": 47,
+    "battery_pct_timestamp": null,
+    "hash": "775ab8149ab279565c60c22a437b755cbce8b8db",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RN4BK",
+    "last_status_update": "2018-11-25T22:32:41.765Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7616321,
+      "longitude": -105.0106221
+    }
+  },
+  {
+    "id": 9117,
+    "name": "LBUF",
+    "battery_pct": 67,
+    "battery_pct_timestamp": null,
+    "hash": "13fb12f1df785093f8d52ddcd0325ec887a76516",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RLBUF",
+    "last_status_update": "2018-11-25T20:58:40.968Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7459313,
+      "longitude": -105.0190668
+    }
+  },
+  {
+    "id": 9442,
+    "name": "GIW9",
+    "battery_pct": 64,
+    "battery_pct_timestamp": null,
+    "hash": "4cd3323248d31e2d1429f59da148af9b67826310",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RGIW9",
+    "last_status_update": "2018-11-25T22:59:03.794Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.750167,
+      "longitude": -104.9977685
+    }
+  },
+  {
+    "id": 9405,
+    "name": "TSO8",
+    "battery_pct": 42,
+    "battery_pct_timestamp": null,
+    "hash": "26d3f8db585e01aed6700fdcf0df14dd4b1b11c6",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RTSO8",
+    "last_status_update": "2018-11-25T23:42:03.754Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7593131,
+      "longitude": -105.0102668
+    }
+  },
+  {
+    "id": 6776,
+    "name": "AXNJ",
+    "battery_pct": 77,
+    "battery_pct_timestamp": null,
+    "hash": "089cabcf74adf1a4ae689851fb6536b44f8d7670",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RAXNJ",
+    "last_status_update": "2018-11-26T00:08:30.742Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7482596,
+      "longitude": -104.9959573
+    }
+  },
+  {
+    "id": 9611,
+    "name": "KARP",
+    "battery_pct": 60,
+    "battery_pct_timestamp": null,
+    "hash": "6acfdb3452393150d6d4baaf0a33b1b2977a9122",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RKARP",
+    "last_status_update": "2018-11-23T16:58:04.562Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7288121,
+      "longitude": -104.990634
+    }
+  },
+  {
+    "id": 9431,
+    "name": "O5E1",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "5ecc92139c09217b32dcc1c7a492d14884c49158",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RO5E1",
+    "last_status_update": "2018-11-25T21:20:09.721Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7608625,
+      "longitude": -105.0254755
+    }
+  },
+  {
+    "id": 9108,
+    "name": "ITYS",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "d28409f34ee16a5b343da102916560ee5292f905",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RITYS",
+    "last_status_update": "2018-11-24T22:47:24.781Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.754323,
+      "longitude": -105.0030551
+    }
+  },
+  {
+    "id": 9097,
+    "name": "QYZR",
+    "battery_pct": 61,
+    "battery_pct_timestamp": null,
+    "hash": "b35067a5b392a9c28c4c4e30d32d8aa0ade136fe",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RQYZR",
+    "last_status_update": "2018-11-26T00:07:58.645Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7672699341691,
+      "longitude": -105.036865258724
+    }
+  },
+  {
+    "id": 6788,
+    "name": "BFKK",
+    "battery_pct": 77,
+    "battery_pct_timestamp": null,
+    "hash": "d35929b5ec8ca40d9d3ae328225036cf1690ed1d",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RBFKK",
+    "last_status_update": "2018-11-25T22:53:06.688Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7439018,
+      "longitude": -104.9950475
+    }
+  },
+  {
+    "id": 6972,
+    "name": "SDS4",
+    "battery_pct": 63,
+    "battery_pct_timestamp": null,
+    "hash": "e9319d2a01f23beb39ff03e410335a634f04ff72",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RSDS4",
+    "last_status_update": "2018-11-26T00:32:11.279Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7452913,
+      "longitude": -104.9934855
+    }
+  },
+  {
+    "id": 7943,
+    "name": "GH9N",
+    "battery_pct": 93,
+    "battery_pct_timestamp": null,
+    "hash": "14dd6ea7e3f30b76e6c230fae122c46b7904ab7f",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RGH9N",
+    "last_status_update": "2018-11-25T21:30:00.432Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7369581,
+      "longitude": -105.026497
+    }
+  },
+  {
+    "id": 7188,
+    "name": "N0B5",
+    "battery_pct": 92,
+    "battery_pct_timestamp": null,
+    "hash": "75e55ad8450b0f49de9a0c589ebd894be414dfe4",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RN0B5",
+    "last_status_update": "2018-11-25T20:20:00.231Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.757103,
+      "longitude": -104.9909128
+    }
+  },
+  {
+    "id": 9025,
+    "name": "NSSS",
+    "battery_pct": 55,
+    "battery_pct_timestamp": null,
+    "hash": "7c052fd4378667b8994319e0ca7303bd6106eefd",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RNSSS",
+    "last_status_update": "2018-11-25T23:01:26.469Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7540105,
+      "longitude": -104.993153
+    }
+  },
+  {
+    "id": 7039,
+    "name": "S596",
+    "battery_pct": 64,
+    "battery_pct_timestamp": null,
+    "hash": "20b4521aedc7c6b80cb71c5d3068c2377c811b86",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RS596",
+    "last_status_update": "2018-11-25T22:20:59.948Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7640321,
+      "longitude": -104.9871743
+    }
+  },
+  {
+    "id": 7036,
+    "name": "U74P",
+    "battery_pct": 93,
+    "battery_pct_timestamp": null,
+    "hash": "f17f5d5a6cfb0db286ca6452107c47abd7d29f8d",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RU74P",
+    "last_status_update": "2018-11-25T21:33:11.148Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7481368,
+      "longitude": -105.0194506
+    }
+  },
+  {
+    "id": 9420,
+    "name": "SO3A",
+    "battery_pct": 35,
+    "battery_pct_timestamp": null,
+    "hash": "06edb842b9e8747b81aceaf25d8b63efc76dd226",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RSO3A",
+    "last_status_update": "2018-11-25T20:16:05.792Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7257885,
+      "longitude": -104.9938858
+    }
+  },
+  {
+    "id": 9598,
+    "name": "PJOW",
+    "battery_pct": 97,
+    "battery_pct_timestamp": null,
+    "hash": "21c2a1e3dd2e73ddade1416353e843d3793bdea9",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RPJOW",
+    "last_status_update": "2018-11-25T21:17:48.787Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7536433,
+      "longitude": -104.9901303
+    }
+  },
+  {
+    "id": 7343,
+    "name": "TXXP",
+    "battery_pct": 78,
+    "battery_pct_timestamp": null,
+    "hash": "ecd795fea8b1ed2cfb209df0b6bb26c3117ec707",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RTXXP",
+    "last_status_update": "2018-11-23T16:48:20.259Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7396118,
+      "longitude": -104.9788756
+    }
+  },
+  {
+    "id": 6796,
+    "name": "V1RR",
+    "battery_pct": 44,
+    "battery_pct_timestamp": null,
+    "hash": "5e586ce18462897e2b882c7df16ee727ef46a331",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RV1RR",
+    "last_status_update": "2018-11-25T23:35:44.204Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7418178,
+      "longitude": -104.9926351
+    }
+  },
+  {
+    "id": 7351,
+    "name": "WE03",
+    "battery_pct": 91,
+    "battery_pct_timestamp": null,
+    "hash": "8f24fa5b5942b0d24988a7dc399f70db115201ea",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RWE03",
+    "last_status_update": "2018-11-25T22:03:49.223Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7519563,
+      "longitude": -104.9958596
+    }
+  },
+  {
+    "id": 9602,
+    "name": "CFBT",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "e359549263e0fb8b83133f18058fa55f2fe5e633",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RCFBT",
+    "last_status_update": "2018-11-25T21:17:55.835Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7536271,
+      "longitude": -104.9901743
+    }
+  },
+  {
+    "id": 8773,
+    "name": "TWSC",
+    "battery_pct": 71,
+    "battery_pct_timestamp": null,
+    "hash": "ecead4bcfb873796e6fe0e7b9e668e877cb959fd",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RTWSC",
+    "last_status_update": "2018-11-24T23:17:30.804Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.762239,
+      "longitude": -105.0058896
+    }
+  },
+  {
+    "id": 7029,
+    "name": "C0RG",
+    "battery_pct": 86,
+    "battery_pct_timestamp": null,
+    "hash": "f3321213b1e6cc5032c652a74aa0b4f6ce0b5b97",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RC0RG",
+    "last_status_update": "2018-11-21T22:26:17.913Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7530068,
+      "longitude": -105.1415555
+    }
+  },
+  {
+    "id": 9430,
+    "name": "I1H5",
+    "battery_pct": 50,
+    "battery_pct_timestamp": null,
+    "hash": "f5953498e2c2e7d3642efced9b9d7e0d0d1d019f",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RI1H5",
+    "last_status_update": "2018-11-25T22:06:04.945Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7473787051064,
+      "longitude": -104.983027847582
+    }
+  },
+  {
+    "id": 9121,
+    "name": "U2PS",
+    "battery_pct": 80,
+    "battery_pct_timestamp": null,
+    "hash": "e5b30c4b56635d2f022d391d60d1455da792c4dc",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RU2PS",
+    "last_status_update": "2018-11-21T23:46:09.370Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.726699,
+      "longitude": -104.9964415
+    }
+  },
+  {
+    "id": 7305,
+    "name": "SDBT",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "750021ca9a4086a205864d05e80b4b7a4fbc0219",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RSDBT",
+    "last_status_update": "2018-11-25T02:05:05.626Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7504675,
+      "longitude": -104.996517
+    }
+  },
+  {
+    "id": 7072,
+    "name": "B5DC",
+    "battery_pct": 84,
+    "battery_pct_timestamp": null,
+    "hash": "ca11edc59851c9c6ccfaf1ccded8c80c813b4f13",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RB5DC",
+    "last_status_update": "2018-11-25T17:00:20.075Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7595541,
+      "longitude": -105.013041
+    }
+  },
+  {
+    "id": 9009,
+    "name": "ICJ4",
+    "battery_pct": 38,
+    "battery_pct_timestamp": null,
+    "hash": "557abf26d3e2be3ee7bfb0f1ad335bb0c56e0bb2",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RICJ4",
+    "last_status_update": "2018-11-25T22:30:50.716Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.753048,
+      "longitude": -104.99599
+    }
+  },
+  {
+    "id": 7355,
+    "name": "HL7T",
+    "battery_pct": 95,
+    "battery_pct_timestamp": null,
+    "hash": "e71576b019ab001881ba635b0340997214bf04ac",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RHL7T",
+    "last_status_update": "2018-11-25T21:17:50.542Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.753613,
+      "longitude": -104.9902516
+    }
+  },
+  {
+    "id": 9600,
+    "name": "PKX6",
+    "battery_pct": 68,
+    "battery_pct_timestamp": null,
+    "hash": "3e3b2c54c5d574161183052f4465113aad5991c6",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RPKX6",
+    "last_status_update": "2018-11-24T20:46:05.539Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7330458,
+      "longitude": -104.9763788
+    }
+  },
+  {
+    "id": 7116,
+    "name": "DZZ9",
+    "battery_pct": 84,
+    "battery_pct_timestamp": null,
+    "hash": "f9a3d2abed20892bb1de399e69cd2448c3e026bd",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RDZZ9",
+    "last_status_update": "2018-11-25T21:40:23.488Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7507926,
+      "longitude": -105.0179085
+    }
+  },
+  {
+    "id": 9414,
+    "name": "VZQX",
+    "battery_pct": 60,
+    "battery_pct_timestamp": null,
+    "hash": "697245430dc3ec4931e2c87f2acdb131c890581d",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RVZQX",
+    "last_status_update": "2018-11-25T22:12:30.380Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7288571,
+      "longitude": -104.9775858
+    }
+  },
+  {
+    "id": 9594,
+    "name": "KMG6",
+    "battery_pct": 92,
+    "battery_pct_timestamp": null,
+    "hash": "e4cf69804820d35cff33d12caf5cd10aae97a9f0",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RKMG6",
+    "last_status_update": "2018-11-25T23:51:18.676Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7516786,
+      "longitude": -104.9943176
+    }
+  },
+  {
+    "id": 9044,
+    "name": "PE4U",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "93899a031d1154783670d8f58965d088380d24ce",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RPE4U",
+    "last_status_update": "2018-11-24T21:51:24.507Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7261605,
+      "longitude": -104.995129
+    }
+  },
+  {
+    "id": 9595,
+    "name": "KUO1",
+    "battery_pct": 69,
+    "battery_pct_timestamp": null,
+    "hash": "e05bee351e643510def9471f87b866d9c45c902b",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RKUO1",
+    "last_status_update": "2018-11-25T23:24:32.224Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7464158,
+      "longitude": -104.9815783
+    }
+  },
+  {
+    "id": 6917,
+    "name": "UMIM",
+    "battery_pct": 84,
+    "battery_pct_timestamp": null,
+    "hash": "b08a324e58d11ef315ee19df07a2035c2b493580",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RUMIM",
+    "last_status_update": "2018-11-25T19:47:02.074Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7428095,
+      "longitude": -105.0159511
+    }
+  },
+  {
+    "id": 7341,
+    "name": "WDMF",
+    "battery_pct": 94,
+    "battery_pct_timestamp": null,
+    "hash": "d88e01ab7b5ba8e387f39be81345c3f8e0766d9d",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RWDMF",
+    "last_status_update": "2018-11-25T20:24:39.120Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7430535,
+      "longitude": -105.0166546
+    }
+  },
+  {
+    "id": 6790,
+    "name": "KTHX",
+    "battery_pct": 68,
+    "battery_pct_timestamp": null,
+    "hash": "df58480bb36a83d79966a6154efd3c608ae9114d",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RKTHX",
+    "last_status_update": "2018-11-25T22:05:57.937Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7355271,
+      "longitude": -104.9962636
+    }
+  },
+  {
+    "id": 7021,
+    "name": "MJTM",
+    "battery_pct": 40,
+    "battery_pct_timestamp": null,
+    "hash": "e1817a1632d18e8741cd1a5d2f0a5151a93830e2",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RMJTM",
+    "last_status_update": "2018-11-24T00:45:22.322Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7547226,
+      "longitude": -104.9777553
+    }
+  },
+  {
+    "id": 6930,
+    "name": "RTZO",
+    "battery_pct": 66,
+    "battery_pct_timestamp": null,
+    "hash": "f0be1f83e3700604bcf0bca7b8004de7f92c85b8",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RRTZO",
+    "last_status_update": "2018-11-24T07:46:45.562Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7679868,
+      "longitude": -104.9747231
+    }
+  },
+  {
+    "id": 9601,
+    "name": "NTMW",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "13775e50f24d6e9e3569d55dd0e83637779122df",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RNTMW",
+    "last_status_update": "2018-11-25T15:02:52.215Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7574703,
+      "longitude": -104.9995111
+    }
+  },
+  {
+    "id": 6797,
+    "name": "ISW2",
+    "battery_pct": 91,
+    "battery_pct_timestamp": null,
+    "hash": "eb0b40bb9ea68f9ad7b2d229449fb453dd34a5f6",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RISW2",
+    "last_status_update": "2018-11-25T20:24:56.325Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7430605,
+      "longitude": -105.0167536
+    }
+  },
+  {
+    "id": 9400,
+    "name": "TDFP",
+    "battery_pct": 30,
+    "battery_pct_timestamp": null,
+    "hash": "35fb95ec9c52e07811030d5abf61b03b4f30ad21",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RTDFP",
+    "last_status_update": "2018-11-24T02:09:37.169Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.732097,
+      "longitude": -105.0054325
+    }
+  },
+  {
+    "id": 9042,
+    "name": "WN0P",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "824ff0e9ecd3cd62b783a2ad351063ebd72aec40",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RWN0P",
+    "last_status_update": "2018-11-25T15:16:07.781Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7466771,
+      "longitude": -105.0190958
+    }
+  },
+  {
+    "id": 9418,
+    "name": "S6TR",
+    "battery_pct": 99,
+    "battery_pct_timestamp": null,
+    "hash": "c31384612b4626e1d92f7a09caa691dbb5afbb11",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RS6TR",
+    "last_status_update": "2018-11-26T00:20:02.163Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.762042,
+      "longitude": -105.0063996
+    }
+  },
+  {
+    "id": 9113,
+    "name": "S6OE",
+    "battery_pct": 85,
+    "battery_pct_timestamp": null,
+    "hash": "56b73019ec162b36f8001f25ad04dff2006f49db",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RS6OE",
+    "last_status_update": "2018-11-22T20:44:50.457Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7353895,
+      "longitude": -105.001872
+    }
+  },
+  {
+    "id": 9444,
+    "name": "E27J",
+    "battery_pct": 37,
+    "battery_pct_timestamp": null,
+    "hash": "fada84ea4e7fadfb9d525dd95dd7910126595297",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RE27J",
+    "last_status_update": "2018-11-23T23:53:24.386Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7448056,
+      "longitude": -104.9829575
+    }
+  },
+  {
+    "id": 7335,
+    "name": "LEUX",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "b7fac46dc31859299bb4b766a81584e64dfa72f8",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RLEUX",
+    "last_status_update": "2018-11-24T16:52:12.049Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7288621,
+      "longitude": -104.9941801
+    }
+  },
+  {
+    "id": 9123,
+    "name": "QFB3",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "c121ea1231208a7964384dfe9b827efdffba8222",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RQFB3",
+    "last_status_update": "2018-11-25T15:16:11.726Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7466923,
+      "longitude": -105.0190816
+    }
+  },
+  {
+    "id": 9453,
+    "name": "FB3K",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "8fb3b9a71d08a18c1fe79b94072c74c452b33626",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RFB3K",
+    "last_status_update": "2018-11-24T16:46:04.821Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7337435,
+      "longitude": -104.9984806
+    }
+  },
+  {
+    "id": 9136,
+    "name": "CRFF",
+    "battery_pct": 70,
+    "battery_pct_timestamp": null,
+    "hash": "d312b5c5c724f09699068f466a568a78a6fb89b2",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RCRFF",
+    "last_status_update": "2018-11-24T22:25:46.237Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7476578,
+      "longitude": -104.9994161
+    }
+  },
+  {
+    "id": 7006,
+    "name": "VZV0",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "88d1420717d2b3386c9f24e4eb3e4324b6e06864",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RVZV0",
+    "last_status_update": "2018-11-25T15:25:44.895Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7437065,
+      "longitude": -105.0235868
+    }
+  },
+  {
+    "id": 10059,
+    "name": "QKZG",
+    "battery_pct": 86,
+    "battery_pct_timestamp": null,
+    "hash": "470a07ba03c2cfaae8d52e24bd116ee5abd16246",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RQKZG",
+    "last_status_update": "2018-11-22T22:39:53.203Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.737336,
+      "longitude": -104.9986891
+    }
+  },
+  {
+    "id": 9432,
+    "name": "I3F2",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "6e101ffdeb86bd9604fb47108eb222bcf94ad7df",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RI3F2",
+    "last_status_update": "2018-11-25T20:22:30.260Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7428885,
+      "longitude": -105.0159601
+    }
+  },
+  {
+    "id": 9124,
+    "name": "TFY5",
+    "battery_pct": 35,
+    "battery_pct_timestamp": null,
+    "hash": "b50b666e99abf3111fdf31f35c0cce45a36c4eaa",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RTFY5",
+    "last_status_update": "2018-11-25T23:01:12.666Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7539863689241,
+      "longitude": -104.993171375343
+    }
+  },
+  {
+    "id": 7122,
+    "name": "AQI5",
+    "battery_pct": 81,
+    "battery_pct_timestamp": null,
+    "hash": "08e7b0260a09a1f8cb5462bd2ec0b4d9bfe444ce",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RAQI5",
+    "last_status_update": "2018-11-24T20:00:56.191Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7530315,
+      "longitude": -105.0061465
+    }
+  },
+  {
+    "id": 6935,
+    "name": "A7C3",
+    "battery_pct": 63,
+    "battery_pct_timestamp": null,
+    "hash": "5f3fe33f624c0813dc86740ef3f3d61ece69a4e1",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RA7C3",
+    "last_status_update": "2018-11-25T21:42:37.414Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7448688,
+      "longitude": -104.9875685
+    }
+  },
+  {
+    "id": 7030,
+    "name": "N1K2",
+    "battery_pct": 93,
+    "battery_pct_timestamp": null,
+    "hash": "de1efde27f64cd39c4984c61bcfbb01211971c21",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RN1K2",
+    "last_status_update": "2018-11-25T20:26:54.030Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7571703,
+      "longitude": -105.0022901
+    }
+  },
+  {
+    "id": 9041,
+    "name": "L2U6",
+    "battery_pct": 74,
+    "battery_pct_timestamp": null,
+    "hash": "80cc5c3c7e34f5a3f1518a6722daacd6a72c6f69",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RL2U6",
+    "last_status_update": "2018-11-25T03:55:25.363Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7519698,
+      "longitude": -104.9919881
+    }
+  },
+  {
+    "id": 7025,
+    "name": "ATZL",
+    "battery_pct": 63,
+    "battery_pct_timestamp": null,
+    "hash": "f7fc7ad62dda4655f1ef4bc63c8408605cccdcb1",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RATZL",
+    "last_status_update": "2018-11-25T17:44:58.188Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7362166,
+      "longitude": -104.9918891
+    }
+  },
+  {
+    "id": 9438,
+    "name": "ITRG",
+    "battery_pct": 68,
+    "battery_pct_timestamp": null,
+    "hash": "3fd0b6bea6d6311c4697d49e5ac9a59e0aecde84",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RITRG",
+    "last_status_update": "2018-11-24T20:14:47.721Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7274191,
+      "longitude": -104.9951228
+    }
+  },
+  {
+    "id": 9425,
+    "name": "SLF0",
+    "battery_pct": 91,
+    "battery_pct_timestamp": null,
+    "hash": "f1396d2aa1183a84d0d2532bca07da5c85258584",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RSLF0",
+    "last_status_update": "2018-11-25T22:13:36.330Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7571803,
+      "longitude": -104.9909441
+    }
+  },
+  {
+    "id": 7035,
+    "name": "G2T7",
+    "battery_pct": 89,
+    "battery_pct_timestamp": null,
+    "hash": "09f3d045314cdfb30288262747a7e660026d9fc3",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RG2T7",
+    "last_status_update": "2018-11-25T22:43:57.432Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7580585,
+      "longitude": -104.9861121
+    }
+  },
+  {
+    "id": 7354,
+    "name": "H5XC",
+    "battery_pct": 78,
+    "battery_pct_timestamp": null,
+    "hash": "081265b6af4404d5b872aec3558db047f553abf8",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RH5XC",
+    "last_status_update": "2018-11-25T03:48:34.068Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7504348,
+      "longitude": -104.9961951
+    }
+  },
+  {
+    "id": 6850,
+    "name": "LKUO",
+    "battery_pct": 37,
+    "battery_pct_timestamp": null,
+    "hash": "4a6530aa42b9fd50dfa98edfe882a0bc08b77543",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RLKUO",
+    "last_status_update": "2018-11-25T23:30:00.661Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7619251,
+      "longitude": -105.0066568
+    }
+  },
+  {
+    "id": 9632,
+    "name": "N5XB",
+    "battery_pct": 86,
+    "battery_pct_timestamp": null,
+    "hash": "6f3771926b9ae03c3e145c9bb6bf51d43170037a",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RN5XB",
+    "last_status_update": "2018-11-25T06:10:44.949Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7630448,
+      "longitude": -104.9892366
+    }
+  },
+  {
+    "id": 7003,
+    "name": "CNYY",
+    "battery_pct": 94,
+    "battery_pct_timestamp": null,
+    "hash": "72b40db116c1ab9e5de1a3950ea9f9529efb0061",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RCNYY",
+    "last_status_update": "2018-11-25T19:30:40.677Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7555558,
+      "longitude": -105.0014815
+    }
+  },
+  {
+    "id": 6860,
+    "name": "JZTS",
+    "battery_pct": 46,
+    "battery_pct_timestamp": null,
+    "hash": "ac17bcf3084216b6c1ee6cb69ef0f81d0d272b73",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RJZTS",
+    "last_status_update": "2018-11-24T05:30:00.916Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7077498,
+      "longitude": -104.9403338
+    }
+  },
+  {
+    "id": 7113,
+    "name": "AL51",
+    "battery_pct": 82,
+    "battery_pct_timestamp": null,
+    "hash": "bf2950893f3e4f7a7b1762ddc8cc0c900636e859",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RAL51",
+    "last_status_update": "2018-11-25T00:39:22.777Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7539241,
+      "longitude": -104.9986205
+    }
+  },
+  {
+    "id": 9395,
+    "name": "KD81",
+    "battery_pct": 72,
+    "battery_pct_timestamp": null,
+    "hash": "2841f53757bf1fe20d0d557899a97f5478dbc850",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RKD81",
+    "last_status_update": "2018-11-25T02:31:48.678Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7321495,
+      "longitude": -104.9881103
+    }
+  },
+  {
+    "id": 6973,
+    "name": "TEH5",
+    "battery_pct": 31,
+    "battery_pct_timestamp": null,
+    "hash": "ce4cb2be4e74ab3bdf43994b7b0fc8bd49a04ab4",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RTEH5",
+    "last_status_update": "2018-11-23T21:35:21.040Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.755238,
+      "longitude": -104.9755376
+    }
+  },
+  {
+    "id": 7115,
+    "name": "VME5",
+    "battery_pct": 90,
+    "battery_pct_timestamp": null,
+    "hash": "22fb691abcdd86bdde353e9644b5e345a595fa92",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RVME5",
+    "last_status_update": "2018-11-26T00:19:55.204Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7620176,
+      "longitude": -105.006454
+    }
+  },
+  {
+    "id": 6915,
+    "name": "U6GV",
+    "battery_pct": 61,
+    "battery_pct_timestamp": null,
+    "hash": "e813fae9e50d051768da07f425fdeb56602eada5",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RU6GV",
+    "last_status_update": "2018-11-24T07:49:44.160Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.748251,
+      "longitude": -104.9685316
+    }
+  },
+  {
+    "id": 9330,
+    "name": "MYP8",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "b53f4d4fae4ef49f4459d4611d6907bfb80356e5",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RMYP8",
+    "last_status_update": "2018-11-25T20:20:24.173Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7428665,
+      "longitude": -105.0160316
+    }
+  },
+  {
+    "id": 9239,
+    "name": "MGSD",
+    "battery_pct": 81,
+    "battery_pct_timestamp": null,
+    "hash": "1d8c9962f3d91feaa0e36dc650cda7350ecae15d",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RMGSD",
+    "last_status_update": "2018-11-25T19:57:56.074Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7427878,
+      "longitude": -105.0159923
+    }
+  },
+  {
+    "id": 7074,
+    "name": "VK3B",
+    "battery_pct": 91,
+    "battery_pct_timestamp": null,
+    "hash": "fb656ea3cf7e072a89bca3b6afebad328ff4f27d",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RVK3B",
+    "last_status_update": "2018-11-24T19:00:10.955Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7562103,
+      "longitude": -104.9887256
+    }
+  },
+  {
+    "id": 9626,
+    "name": "OT6C",
+    "battery_pct": 31,
+    "battery_pct_timestamp": null,
+    "hash": "2e0d0a9079b93ad074293b1fbf5693f0bbbd81cf",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "ROT6C",
+    "last_status_update": "2018-11-25T20:41:51.165Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7424635,
+      "longitude": -105.0141238
+    }
+  },
+  {
+    "id": 7350,
+    "name": "MDJC",
+    "battery_pct": 30,
+    "battery_pct_timestamp": null,
+    "hash": "8f1f4383a41a78f1f72c77fd99e0c54a02fa1358",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RMDJC",
+    "last_status_update": "2018-11-25T01:29:12.998Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7375456,
+      "longitude": -105.0002888
+    }
+  },
+  {
+    "id": 9129,
+    "name": "HR3L",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "34c7d6a4ea313c53ad7c4d43d932699b311bb567",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RHR3L",
+    "last_status_update": "2018-11-25T19:47:06.915Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7428681,
+      "longitude": -105.0159425
+    }
+  },
+  {
+    "id": 9007,
+    "name": "VJU4",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "7b0f2bfe7606b40183693272dbed4a35601eb93d",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RVJU4",
+    "last_status_update": "2018-11-21T22:35:30.660Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7334866,
+      "longitude": -104.9988021
+    }
+  },
+  {
+    "id": 6910,
+    "name": "T4NQ",
+    "battery_pct": 92,
+    "battery_pct_timestamp": null,
+    "hash": "43da92a69df89f35fb4cda60aa92db60fb09e9b6",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RT4NQ",
+    "last_status_update": "2018-11-25T20:19:26.573Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7450061,
+      "longitude": -105.0164198
+    }
+  },
+  {
+    "id": 6857,
+    "name": "QKBS",
+    "battery_pct": 33,
+    "battery_pct_timestamp": null,
+    "hash": "5f578e0b3e04079dcdd8b5cb38c5c4c7a8c5552e",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RQKBS",
+    "last_status_update": "2018-11-25T00:56:17.051Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7713461,
+      "longitude": -105.0380156
+    }
+  },
+  {
+    "id": 9439,
+    "name": "R9DQ",
+    "battery_pct": 38,
+    "battery_pct_timestamp": null,
+    "hash": "afdad868b60309f6720d0ac35538b51bbda795a9",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RR9DQ",
+    "last_status_update": "2018-11-25T18:23:51.884Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7541368,
+      "longitude": -105.0019025
+    }
+  },
+  {
+    "id": 7123,
+    "name": "I69H",
+    "battery_pct": 68,
+    "battery_pct_timestamp": null,
+    "hash": "7766cafcd96db16ebbd779abf0dd0269ce2b82cf",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RI69H",
+    "last_status_update": "2018-11-25T21:32:43.135Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7480823,
+      "longitude": -105.0195033
+    }
+  },
+  {
+    "id": 6830,
+    "name": "IC57",
+    "battery_pct": 83,
+    "battery_pct_timestamp": null,
+    "hash": "e121811ffe58612c27d95f990ff61e2b923baa9e",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RIC57",
+    "last_status_update": "2018-11-25T20:22:19.206Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7428401,
+      "longitude": -105.0160125
+    }
+  },
+  {
+    "id": 6991,
+    "name": "JDNB",
+    "battery_pct": 82,
+    "battery_pct_timestamp": null,
+    "hash": "96cf4d9c4003ad58111ef4b7f86ef44186a45758",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RJDNB",
+    "last_status_update": "2018-11-25T21:43:23.865Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7534255,
+      "longitude": -104.995753
+    }
+  },
+  {
+    "id": 9591,
+    "name": "QKU4",
+    "battery_pct": 79,
+    "battery_pct_timestamp": null,
+    "hash": "1f69b17ae3f65449fbdc9b6ff61c64ecebd2f8ec",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RQKU4",
+    "last_status_update": "2018-11-25T17:25:45.855Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7447735,
+      "longitude": -104.975129
+    }
+  },
+  {
+    "id": 9029,
+    "name": "N4QL",
+    "battery_pct": 100,
+    "battery_pct_timestamp": null,
+    "hash": "cd3e917d9b720ad4a5828decdbc9b39e4f1b1a92",
+    "vehicle_type": 1,
+    "vehicle_name": "Scooter",
+    "controller_id": "RN4QL",
+    "last_status_update": "2018-11-25T15:15:56.917Z",
+    "comm_type": {
+      "id": 1,
+      "provider": "PWS",
+      "protocol": "bluetooth"
+    },
+    "location": {
+      "latitude": 39.7466728,
+      "longitude": -105.019074
+    }
+  }
+]

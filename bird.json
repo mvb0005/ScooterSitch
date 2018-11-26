@@ -1,0 +1,2286 @@
+{
+    "birds": [
+        {
+            "id": "ddb8c20b-1c0d-4d6e-8268-5b84e62dfd8c",
+            "location": {
+                "latitude": 39.75601166666667,
+                "longitude": -104.99204999999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 95
+        },
+        {
+            "id": "0c8f8ddc-2362-4e0c-b67a-b13a4abd9541",
+            "location": {
+                "latitude": 39.755905,
+                "longitude": -104.99082166666668
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 86
+        },
+        {
+            "id": "50e27d41-bc3d-4490-83e4-d655b1eddefc",
+            "location": {
+                "latitude": 39.75503166666667,
+                "longitude": -104.99061666666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 96
+        },
+        {
+            "id": "597f5dd9-c1a1-49c4-b89d-b23a3b53f3ad",
+            "location": {
+                "latitude": 39.754448333333336,
+                "longitude": -104.98976166666668
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 82
+        },
+        {
+            "id": "5196453c-ae6e-4f2a-9918-6439d768930d",
+            "location": {
+                "latitude": 39.755898333333334,
+                "longitude": -104.98909
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 98
+        },
+        {
+            "id": "2af1e310-ec06-4272-9f0d-ed8e10236b53",
+            "location": {
+                "latitude": 39.756694,
+                "longitude": -104.989315
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 74
+        },
+        {
+            "id": "3895e420-f3d3-42f5-9bbe-61f0f00193d8",
+            "location": {
+                "latitude": 39.75698166666667,
+                "longitude": -104.98924333333335
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 92
+        },
+        {
+            "id": "4e09a715-0124-403d-86b4-c3023281a8a1",
+            "location": {
+                "latitude": 39.757705,
+                "longitude": -104.99010500000001
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 95
+        },
+        {
+            "id": "52c1dce6-f89d-4b43-96fe-12595197e981",
+            "location": {
+                "latitude": 39.75408166666667,
+                "longitude": -104.98912
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "a73d8f67-9789-4a16-bbe9-3477d7e76c47",
+            "location": {
+                "latitude": 39.75298333333333,
+                "longitude": -104.99091333333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 72
+        },
+        {
+            "id": "7d90f959-1bdf-41a5-86d2-4f6a771b926c",
+            "location": {
+                "latitude": 39.75624166666667,
+                "longitude": -104.98854833333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 78
+        },
+        {
+            "id": "3964bf8a-8ef0-4a92-83f7-9f5c1c60d039",
+            "location": {
+                "latitude": 39.75277666666667,
+                "longitude": -104.99273
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 39
+        },
+        {
+            "id": "eda8746e-2983-4219-9c00-83144814dab3",
+            "location": {
+                "latitude": 39.75288833333333,
+                "longitude": -104.99010500000001
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 92
+        },
+        {
+            "id": "79036935-f26f-4e4e-8fe5-0914214d76c9",
+            "location": {
+                "latitude": 39.75347166666666,
+                "longitude": -104.99552166666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 83
+        },
+        {
+            "id": "c35b8c62-5ce5-4605-b720-e9f63d840e41",
+            "location": {
+                "latitude": 39.752116666666666,
+                "longitude": -104.99177499999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 53
+        },
+        {
+            "id": "f401a693-a7e1-478a-a96b-36afcdab098d",
+            "location": {
+                "latitude": 39.755612,
+                "longitude": -104.996771
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 72
+        },
+        {
+            "id": "15b9afa0-0279-4ab1-88d6-35efecb4237b",
+            "location": {
+                "latitude": 39.757895,
+                "longitude": -104.987317
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "5d993871-8f73-41a9-948f-03d33dbbe1b7",
+            "location": {
+                "latitude": 39.75339,
+                "longitude": -104.99711
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 97
+        },
+        {
+            "id": "bb5e15d4-32be-4fd6-99c7-15d97de2fc5a",
+            "location": {
+                "latitude": 39.75190666666666,
+                "longitude": -104.99589499999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 76
+        },
+        {
+            "id": "8bb66194-00b6-4e48-9231-26cdf3524681",
+            "location": {
+                "latitude": 39.756766666666664,
+                "longitude": -104.99905333333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 54
+        },
+        {
+            "id": "c32f6e64-17ad-4622-8ffe-ad56bcbcc6cb",
+            "location": {
+                "latitude": 39.758322,
+                "longitude": -104.998595
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 33
+        },
+        {
+            "id": "bf964074-4bd7-47b2-82f5-bfd6b1247f70",
+            "location": {
+                "latitude": 39.749336666666665,
+                "longitude": -104.99204333333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 76
+        },
+        {
+            "id": "b9c0dda4-1270-433e-834f-e4ac376bba53",
+            "location": {
+                "latitude": 39.751905,
+                "longitude": -104.985404
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "311a9ac8-4d88-45a1-905d-8ff49cf221ef",
+            "location": {
+                "latitude": 39.75193,
+                "longitude": -104.985377
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "dc85d111-14fb-4c57-9477-3d977537cb2f",
+            "location": {
+                "latitude": 39.751877,
+                "longitude": -104.985402
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "1d4dcfd3-cb66-4463-83a9-2b574342617c",
+            "location": {
+                "latitude": 39.756083,
+                "longitude": -105.000343
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "8ada5900-7746-4bd9-ac6d-802cfa4a88ec",
+            "location": {
+                "latitude": 39.755985,
+                "longitude": -105.00054999999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 93
+        },
+        {
+            "id": "f43548f1-091a-47d7-852b-ee7751e84337",
+            "location": {
+                "latitude": 39.749005000000004,
+                "longitude": -104.99240166666665
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 97
+        },
+        {
+            "id": "3f6f77c8-2a46-436e-9209-5417449255d2",
+            "location": {
+                "latitude": 39.7559763247092,
+                "longitude": -105.0006432856984
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 96
+        },
+        {
+            "id": "d3aff3ad-90e1-4cae-a92a-e5cf01eb852a",
+            "location": {
+                "latitude": 39.75911,
+                "longitude": -104.98484833333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 86
+        },
+        {
+            "id": "2ddecdb5-aec7-4335-b3ef-c151c52bd3a6",
+            "location": {
+                "latitude": 39.76186,
+                "longitude": -104.98930333333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 93
+        },
+        {
+            "id": "63956781-1321-42bc-85ba-9bfd6391d6e9",
+            "location": {
+                "latitude": 39.76191333333334,
+                "longitude": -104.98928833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 92
+        },
+        {
+            "id": "08522527-033f-40b6-b33e-32f2dcf96649",
+            "location": {
+                "latitude": 39.759198,
+                "longitude": -104.984282
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 60
+        },
+        {
+            "id": "8f51826f-8f7a-47b8-96d7-aabc1f58acba",
+            "location": {
+                "latitude": 39.748535,
+                "longitude": -104.99176833333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 93
+        },
+        {
+            "id": "631eb726-9091-43a7-b57c-613c09462d5c",
+            "location": {
+                "latitude": 39.748508333333334,
+                "longitude": -104.99170666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 91
+        },
+        {
+            "id": "7bebfdb7-4d3b-4fd0-8192-4f8190670fa0",
+            "location": {
+                "latitude": 39.75906,
+                "longitude": -105.00036666666668
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 84
+        },
+        {
+            "id": "5ade5e7c-5340-437d-8a13-886a5ba109fb",
+            "location": {
+                "latitude": 39.75080833333333,
+                "longitude": -104.98483333333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "0bc8235e-c3cb-4ba9-907f-a8af434cf4e4",
+            "location": {
+                "latitude": 39.74822166666667,
+                "longitude": -104.99266000000001
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 41
+        },
+        {
+            "id": "db92cef8-6502-47b2-808d-fa47313d4026",
+            "location": {
+                "latitude": 39.750728333333335,
+                "longitude": -104.984855
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "4ca8df0e-2c67-45e1-ab54-560f502ffb91",
+            "location": {
+                "latitude": 39.750721666666664,
+                "longitude": -104.98483333333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "95e8cc42-236d-45e8-8fa8-3534bcd97ee5",
+            "location": {
+                "latitude": 39.751171666666664,
+                "longitude": -104.99990000000001
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 59
+        },
+        {
+            "id": "af17816e-c543-440a-bb16-d2d816387ea5",
+            "location": {
+                "latitude": 39.748185,
+                "longitude": -104.98753333333335
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 91
+        },
+        {
+            "id": "a6fec7e6-e6e0-407d-aa15-d914340834bc",
+            "location": {
+                "latitude": 39.758381666666665,
+                "longitude": -104.98194166666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 85
+        },
+        {
+            "id": "2ef33990-7f52-4c6f-9a5a-8d464b7126f8",
+            "location": {
+                "latitude": 39.7584,
+                "longitude": -104.98191833333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 73
+        },
+        {
+            "id": "ce24cbce-9b62-4fd6-a606-cc4b9c9f3962",
+            "location": {
+                "latitude": 39.758408333333335,
+                "longitude": -104.98191
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 65
+        },
+        {
+            "id": "83783987-d33b-47cd-9210-d51a05bb54f2",
+            "location": {
+                "latitude": 39.760326666666664,
+                "longitude": -104.98319166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "5069d11c-7f8f-41dd-9d05-a92694d353f7",
+            "location": {
+                "latitude": 39.76363,
+                "longitude": -104.98928833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 91
+        },
+        {
+            "id": "e0db7a18-b394-4e01-9c02-92c7d2bd967b",
+            "location": {
+                "latitude": 39.747238333333335,
+                "longitude": -104.99240833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 97
+        },
+        {
+            "id": "15929e1b-8a0a-4ec6-b4a4-4643a55c45bc",
+            "location": {
+                "latitude": 39.748538333333336,
+                "longitude": -104.99829166666665
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 34
+        },
+        {
+            "id": "53160922-f52e-414d-97a4-3afd48d1f8ce",
+            "location": {
+                "latitude": 39.747453,
+                "longitude": -104.996926
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 33
+        },
+        {
+            "id": "dc78b4f5-2052-444b-9f3c-7a0daf7349f3",
+            "location": {
+                "latitude": 39.74762666666666,
+                "longitude": -104.98634333333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 69
+        },
+        {
+            "id": "bee603f2-8355-4abc-99d2-6d1af30a8b51",
+            "location": {
+                "latitude": 39.74762666666666,
+                "longitude": -104.98626
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 81
+        },
+        {
+            "id": "83487a90-5684-458e-8f2a-38431ebb431c",
+            "location": {
+                "latitude": 39.7472,
+                "longitude": -104.99697833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 18
+        },
+        {
+            "id": "3c12d918-34b9-4875-8bba-bb70e49d5e8e",
+            "location": {
+                "latitude": 39.747002,
+                "longitude": -104.996418
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 62
+        },
+        {
+            "id": "cc2cd708-2326-4c80-b5e1-b4ac7d0dfb5b",
+            "location": {
+                "latitude": 39.760025000000006,
+                "longitude": -104.981575
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "2c7c229f-5d08-4757-b366-aa86d65620e4",
+            "location": {
+                "latitude": 39.760070000000006,
+                "longitude": -104.98159833333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 98
+        },
+        {
+            "id": "da9eb190-4ea8-416c-bea6-4d24c565c20f",
+            "location": {
+                "latitude": 39.74711666666667,
+                "longitude": -104.99697166666668
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 27
+        },
+        {
+            "id": "29955f47-18b0-497d-8c07-86c7393677f4",
+            "location": {
+                "latitude": 39.76007833333333,
+                "longitude": -104.98155999999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 93
+        },
+        {
+            "id": "b0bc2823-411f-4974-bdd1-4c262bc57080",
+            "location": {
+                "latitude": 39.753122,
+                "longitude": -104.980441
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 94
+        },
+        {
+            "id": "8619d7d6-3956-4f5f-bac9-1741e5a4b88b",
+            "location": {
+                "latitude": 39.752055974714224,
+                "longitude": -105.00337282205466
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 57
+        },
+        {
+            "id": "63dbeb18-aff6-4367-af96-c6957605654a",
+            "location": {
+                "latitude": 39.74608666666666,
+                "longitude": -104.98838833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 98
+        },
+        {
+            "id": "35a6f77e-205a-46a5-89f4-80c12f61e466",
+            "location": {
+                "latitude": 39.74533833333333,
+                "longitude": -104.99359166666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 83
+        },
+        {
+            "id": "679c4f8c-8522-48ea-b801-396305abcf5c",
+            "location": {
+                "latitude": 39.76175666666666,
+                "longitude": -104.98136166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 98
+        },
+        {
+            "id": "f556c083-8a57-4313-8dad-856b7be07d97",
+            "location": {
+                "latitude": 39.754779,
+                "longitude": -105.005553
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 80
+        },
+        {
+            "id": "a2932d82-2260-4285-bea6-2eacbe261250",
+            "location": {
+                "latitude": 39.753207,
+                "longitude": -105.005348
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 28
+        },
+        {
+            "id": "377400a4-b8c4-4cb9-9029-e80142527002",
+            "location": {
+                "latitude": 39.76222666666667,
+                "longitude": -104.98081166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 72
+        },
+        {
+            "id": "0eb4f59f-a8ea-4bd5-8336-fa9ad8a1b80d",
+            "location": {
+                "latitude": 39.762257,
+                "longitude": -104.9807
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 61
+        },
+        {
+            "id": "86b5b97a-370a-488c-b8f7-57debd46f404",
+            "location": {
+                "latitude": 39.749295,
+                "longitude": -104.97992666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 88
+        },
+        {
+            "id": "766112b6-a7f9-41da-896d-749387d95ae7",
+            "location": {
+                "latitude": 39.74432,
+                "longitude": -104.99112666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 46
+        },
+        {
+            "id": "e712f149-dbdf-408e-afcb-9898f9ca7c92",
+            "location": {
+                "latitude": 39.74431666666667,
+                "longitude": -104.99091333333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 56
+        },
+        {
+            "id": "be5432a5-43a5-4802-8ef7-c43ca236d8ab",
+            "location": {
+                "latitude": 39.74922166666667,
+                "longitude": -104.97992
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 22
+        },
+        {
+            "id": "d150cd1c-1067-4619-980e-42887c511e0e",
+            "location": {
+                "latitude": 39.74406,
+                "longitude": -104.99096666666668
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 91
+        },
+        {
+            "id": "805ca74b-473a-4870-ba75-8fc6aafed921",
+            "location": {
+                "latitude": 39.75504286590941,
+                "longitude": -105.0071849954361
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 94
+        },
+        {
+            "id": "25dec248-aa1e-4f58-b684-723fc371aad4",
+            "location": {
+                "latitude": 39.744530000000005,
+                "longitude": -104.98741166666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 82
+        },
+        {
+            "id": "c1c51ea4-7ffc-4380-b309-6faa1dc73647",
+            "location": {
+                "latitude": 39.74419,
+                "longitude": -104.995735
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 93
+        },
+        {
+            "id": "142458bc-2b0c-4c09-b637-b8c1c5959328",
+            "location": {
+                "latitude": 39.75826666666667,
+                "longitude": -105.00698833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 72
+        },
+        {
+            "id": "d8cb9d26-dde4-46ef-b5c8-1eb472495af3",
+            "location": {
+                "latitude": 39.7485,
+                "longitude": -105.00464666666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 47
+        },
+        {
+            "id": "fe86f0d8-7c39-4ace-b892-8e4e7002363e",
+            "location": {
+                "latitude": 39.74339333333333,
+                "longitude": -104.99005166666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 89
+        },
+        {
+            "id": "0334aa72-0021-4658-85ff-cd59ef43c160",
+            "location": {
+                "latitude": 39.764053,
+                "longitude": -104.980247
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 84
+        },
+        {
+            "id": "55977b96-9a10-400d-95d9-da18d5042122",
+            "location": {
+                "latitude": 39.756595,
+                "longitude": -104.97586833333335
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 98
+        },
+        {
+            "id": "ef8051b4-5c2d-48d8-84ac-f2f17f05c604",
+            "location": {
+                "latitude": 39.75658,
+                "longitude": -104.97582166666668
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 89
+        },
+        {
+            "id": "000d80af-15bd-4e00-8a33-74e7437d299a",
+            "location": {
+                "latitude": 39.74478166666667,
+                "longitude": -104.98364333333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 74
+        },
+        {
+            "id": "b2a4186b-1ba2-4898-bd40-ba137a8f9a4d",
+            "location": {
+                "latitude": 39.744805,
+                "longitude": -104.98351333333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 66
+        },
+        {
+            "id": "8115e460-78f3-45f0-a973-b9a51d8c7bf9",
+            "location": {
+                "latitude": 39.756657,
+                "longitude": -104.975709
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 87
+        },
+        {
+            "id": "43895ccc-ba90-4bd9-ba59-cee819796440",
+            "location": {
+                "latitude": 39.75744759201981,
+                "longitude": -105.00879515903537
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 58
+        },
+        {
+            "id": "3ce3d298-285f-4fa2-8c3d-78571a945a79",
+            "location": {
+                "latitude": 39.76379,
+                "longitude": -104.97857666666665
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 44
+        },
+        {
+            "id": "883a2c5a-25eb-41a7-93c1-2e389a3e21ea",
+            "location": {
+                "latitude": 39.74213333333333,
+                "longitude": -104.98890666666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 72
+        },
+        {
+            "id": "3964645c-193b-45b5-b589-b46f2b7ffa49",
+            "location": {
+                "latitude": 39.74196666666667,
+                "longitude": -104.98890666666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 41
+        },
+        {
+            "id": "809d4e2d-20e5-4f60-972c-9da4b899a9e6",
+            "location": {
+                "latitude": 39.742039,
+                "longitude": -104.987135
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "f122ec68-fe1b-48d8-8611-55e67a2628b5",
+            "location": {
+                "latitude": 39.741706666666666,
+                "longitude": -104.98709166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 97
+        },
+        {
+            "id": "97b49b4c-ee7b-47b0-b827-fb19d78db91b",
+            "location": {
+                "latitude": 39.741918,
+                "longitude": -104.986057
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "1e5f12f3-5158-483e-9975-5ac390158ae2",
+            "location": {
+                "latitude": 39.741645,
+                "longitude": -104.98710666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "82a994ff-404a-4515-aff5-10259293371d",
+            "location": {
+                "latitude": 39.741876,
+                "longitude": -104.98605
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "2ac71aa6-4894-478b-b105-ea2e15cfdf42",
+            "location": {
+                "latitude": 39.741634999999995,
+                "longitude": -104.98705999999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "243b54e2-0f8b-46e2-b784-1e6758e3d3c6",
+            "location": {
+                "latitude": 39.741859,
+                "longitude": -104.986069
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 95
+        },
+        {
+            "id": "fddc9fb9-0d98-46e8-aa7d-5d27206e5a7b",
+            "location": {
+                "latitude": 39.74158833333333,
+                "longitude": -104.987015
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "4a62dac4-5f9e-41aa-91a2-af9c4d1b10dc",
+            "location": {
+                "latitude": 39.741753333333335,
+                "longitude": -104.98606833333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 97
+        },
+        {
+            "id": "0ef73898-dd0a-4053-8e27-6d6c35ac7ee3",
+            "location": {
+                "latitude": 39.743405,
+                "longitude": -104.98121666666665
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 88
+        },
+        {
+            "id": "5ad60dfd-554b-448f-b653-c925f31d5fc8",
+            "location": {
+                "latitude": 39.743178,
+                "longitude": -104.981472
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 85
+        },
+        {
+            "id": "ce9c515a-f648-47a4-82d5-3b3632fd1e7e",
+            "location": {
+                "latitude": 39.743233333333336,
+                "longitude": -104.98136166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 95
+        },
+        {
+            "id": "7a481e08-b22c-444b-8708-fae0bfdcebd0",
+            "location": {
+                "latitude": 39.743234,
+                "longitude": -104.981268
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 91
+        },
+        {
+            "id": "16bda036-d6a5-4695-8075-92dbb276c54a",
+            "location": {
+                "latitude": 39.742487,
+                "longitude": -104.982322
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 71
+        },
+        {
+            "id": "14732df0-a784-4472-b8ad-c426be447376",
+            "location": {
+                "latitude": 39.77054666666667,
+                "longitude": -104.99534666666665
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 85
+        },
+        {
+            "id": "3de0074a-8f4e-4619-97c5-f1cfdfd52dfa",
+            "location": {
+                "latitude": 39.74236666666666,
+                "longitude": -104.98229166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 73
+        },
+        {
+            "id": "2c3fa1f0-8d10-49f8-a914-2df573766902",
+            "location": {
+                "latitude": 39.75961333333333,
+                "longitude": -105.01124499999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 64
+        },
+        {
+            "id": "6cb562a4-e8a3-4f5c-b724-a4dbe95ea38b",
+            "location": {
+                "latitude": 39.75355833333333,
+                "longitude": -104.97201500000001
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 65
+        },
+        {
+            "id": "74b74961-c7f9-4957-8802-3e765dc297b8",
+            "location": {
+                "latitude": 39.770198,
+                "longitude": -104.983151
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 76
+        },
+        {
+            "id": "fcfefa09-587d-4ecc-8511-350852ce1a69",
+            "location": {
+                "latitude": 39.741058,
+                "longitude": -104.982711
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 98
+        },
+        {
+            "id": "5693b732-e3a2-4a1f-ae11-d6c4d3a8b4a9",
+            "location": {
+                "latitude": 39.76737666666667,
+                "longitude": -104.977555
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 94
+        },
+        {
+            "id": "b85dc41c-144d-4ed0-b4d5-61c427ef7afb",
+            "location": {
+                "latitude": 39.740974,
+                "longitude": -104.98259
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 94
+        },
+        {
+            "id": "8abc3be4-4d90-4f89-8c90-72d883a29015",
+            "location": {
+                "latitude": 39.76920333333333,
+                "longitude": -105.00395166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 96
+        },
+        {
+            "id": "a29f1422-f50f-42de-8499-86ab314433b6",
+            "location": {
+                "latitude": 39.769219,
+                "longitude": -105.00404
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 94
+        },
+        {
+            "id": "65487347-1531-4071-9b13-eb8d3369a992",
+            "location": {
+                "latitude": 39.74014666666667,
+                "longitude": -104.98222333333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 65
+        },
+        {
+            "id": "9fd9c1d2-52fc-4395-90ac-4c7774e9e1ca",
+            "location": {
+                "latitude": 39.73956666666666,
+                "longitude": -105.00029
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 93
+        },
+        {
+            "id": "5ebe606d-843b-4007-94fb-8fb67533b88f",
+            "location": {
+                "latitude": 39.767119,
+                "longitude": -104.974312
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 37
+        },
+        {
+            "id": "df8d83cf-682e-4929-9689-d309d6b44153",
+            "location": {
+                "latitude": 39.738676,
+                "longitude": -104.983948
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "d3e390e1-7591-4d75-9714-dd7a4175a7c9",
+            "location": {
+                "latitude": 39.739578,
+                "longitude": -105.002928
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 80
+        },
+        {
+            "id": "4d78cf43-bd02-448b-b353-0b494b63ae7e",
+            "location": {
+                "latitude": 39.738640000000004,
+                "longitude": -104.98355166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "cb2d6ee4-009f-45a0-bc04-96871ee54b64",
+            "location": {
+                "latitude": 39.73701166666667,
+                "longitude": -104.98970833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 80
+        },
+        {
+            "id": "22c8911a-ebd4-4546-b27e-fce6eb33ac4e",
+            "location": {
+                "latitude": 39.736919,
+                "longitude": -104.989595
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 98
+        },
+        {
+            "id": "deeb6b07-14d8-4777-b7a8-4259a1322111",
+            "location": {
+                "latitude": 39.736625000000004,
+                "longitude": -104.99000499999998
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 71
+        },
+        {
+            "id": "8302af5d-1f6b-4a89-b6ab-85f58a208d2d",
+            "location": {
+                "latitude": 39.73688166666667,
+                "longitude": -104.99684166666665
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 92
+        },
+        {
+            "id": "a629d800-9da6-484b-8d1d-016b6a0739ce",
+            "location": {
+                "latitude": 39.73689666666667,
+                "longitude": -104.98622833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 85
+        },
+        {
+            "id": "5b99bb10-c672-431d-9d2d-4f255415f700",
+            "location": {
+                "latitude": 39.743465,
+                "longitude": -105.01155833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 75
+        },
+        {
+            "id": "6cd79116-e26e-49da-9f47-a8391af9d932",
+            "location": {
+                "latitude": 39.736142,
+                "longitude": -104.99033
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 80
+        },
+        {
+            "id": "89605650-98fa-420f-b0c3-3db9e34e23c3",
+            "location": {
+                "latitude": 39.736714,
+                "longitude": -104.984866
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 91
+        },
+        {
+            "id": "3aef925c-4bd6-45b4-9b8f-0c62321f9b25",
+            "location": {
+                "latitude": 39.73665666666667,
+                "longitude": -104.98488666666665
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 94
+        },
+        {
+            "id": "bfec10fe-e63c-419e-b868-85edbfd45cd3",
+            "location": {
+                "latitude": 39.765608,
+                "longitude": -105.014448
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "1a87c5ce-aa08-4515-a8e1-d2874f3b28bb",
+            "location": {
+                "latitude": 39.735544044561436,
+                "longitude": -104.9968033378059
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 53
+        },
+        {
+            "id": "110bc966-2f77-4c7b-a303-cbc7f024e92e",
+            "location": {
+                "latitude": 39.74339333333333,
+                "longitude": -104.97087166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 29
+        },
+        {
+            "id": "47e78c8f-f9dc-474e-91b9-a753951127b6",
+            "location": {
+                "latitude": 39.73549666666667,
+                "longitude": -104.99684833333335
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 98
+        },
+        {
+            "id": "31d9fd7a-c63d-4663-9f59-28b25360871b",
+            "location": {
+                "latitude": 39.735463,
+                "longitude": -104.996881
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 94
+        },
+        {
+            "id": "9675a0cd-b292-42e9-b258-787e6e4a3583",
+            "location": {
+                "latitude": 39.735382,
+                "longitude": -104.996868
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "8183ae47-3acc-4887-95ca-4c62a52ab47c",
+            "location": {
+                "latitude": 39.73515666666666,
+                "longitude": -104.98761666666665
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 81
+        },
+        {
+            "id": "6bf78265-3216-4ad8-b993-03132fa97fcf",
+            "location": {
+                "latitude": 39.734588333333335,
+                "longitude": -104.99292833333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "7dc1615b-5f45-40d3-8e67-d326e4e27605",
+            "location": {
+                "latitude": 39.73459,
+                "longitude": -104.993101
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "6e45a3aa-d8e8-4754-8e01-6c2dbd6b0aa6",
+            "location": {
+                "latitude": 39.735305000000004,
+                "longitude": -104.98468833333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 92
+        },
+        {
+            "id": "93c154a2-e34c-457a-bffb-935013922e99",
+            "location": {
+                "latitude": 39.74603666666667,
+                "longitude": -105.016555
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 61
+        },
+        {
+            "id": "6b976d8d-3811-48b8-8705-bd57dafcf813",
+            "location": {
+                "latitude": 39.73439333333333,
+                "longitude": -104.99603333333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 80
+        },
+        {
+            "id": "865134ac-e9c6-497f-bd66-fc58bcb4aa83",
+            "location": {
+                "latitude": 39.772184,
+                "longitude": -104.974509
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "40e05058-f6d4-4dde-bf72-8670b4c39241",
+            "location": {
+                "latitude": 39.7450075,
+                "longitude": -105.0163728
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 89
+        },
+        {
+            "id": "b8df7560-f259-469c-855d-381d53ea5fe2",
+            "location": {
+                "latitude": 39.745025000000005,
+                "longitude": -105.01641833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 84
+        },
+        {
+            "id": "01f00622-6f7e-45cc-a77d-4c7fab1db58d",
+            "location": {
+                "latitude": 39.772265,
+                "longitude": -104.974416
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "9d883a00-ce5d-40b1-bf5b-c0b3df3d1769",
+            "location": {
+                "latitude": 39.736560000000004,
+                "longitude": -104.97878999999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 83
+        },
+        {
+            "id": "5d83694f-c1df-4603-8614-58f77db68e3b",
+            "location": {
+                "latitude": 39.743766,
+                "longitude": -105.015792
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 33
+        },
+        {
+            "id": "b5462236-6769-46f8-91fb-62d3679ec70a",
+            "location": {
+                "latitude": 39.743770000000005,
+                "longitude": -105.01581499999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 36
+        },
+        {
+            "id": "34ffc583-d57c-4ee5-b8b5-12bdb5b5caa2",
+            "location": {
+                "latitude": 39.74374833333333,
+                "longitude": -105.01580833333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 73
+        },
+        {
+            "id": "b1930311-443f-4497-8ac6-741b9c0cae28",
+            "location": {
+                "latitude": 39.747730000000004,
+                "longitude": -105.01879166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 78
+        },
+        {
+            "id": "104708fe-e565-486a-a0ae-634f89ee624a",
+            "location": {
+                "latitude": 39.733827,
+                "longitude": -104.987876
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "ee68c07b-7e74-43c2-8357-94c7e82c4559",
+            "location": {
+                "latitude": 39.74771259821928,
+                "longitude": -105.0188702904666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 80
+        },
+        {
+            "id": "a9b07adf-8cfd-4e99-a62d-c12dac03b665",
+            "location": {
+                "latitude": 39.74770413249708,
+                "longitude": -105.01888143839781
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 80
+        },
+        {
+            "id": "c12e9a26-71c0-4c25-805c-6e3ee46deb15",
+            "location": {
+                "latitude": 39.73705666666667,
+                "longitude": -104.97651666666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "85a48fe2-f00f-47e6-9204-38fdcfa4c78c",
+            "location": {
+                "latitude": 39.747683,
+                "longitude": -105.018925
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 73
+        },
+        {
+            "id": "469e3b08-3915-4c03-bb9b-3d432f05cec1",
+            "location": {
+                "latitude": 39.735931,
+                "longitude": -105.005292
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "29849c63-c245-4994-b11c-10b7c6e6c136",
+            "location": {
+                "latitude": 39.75108,
+                "longitude": -105.020435
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 95
+        },
+        {
+            "id": "abc17dce-0fd5-451f-b3f9-44be269ac15d",
+            "location": {
+                "latitude": 39.742783333333335,
+                "longitude": -105.01590666666668
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 85
+        },
+        {
+            "id": "3fe5e40a-3468-4c42-b8c3-fd168ce84fe8",
+            "location": {
+                "latitude": 39.742783333333335,
+                "longitude": -105.01592333333335
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 27
+        },
+        {
+            "id": "f7db9bf3-9627-4623-aa4e-eb90d52ccfbb",
+            "location": {
+                "latitude": 39.742801666666665,
+                "longitude": -105.01595333333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 56
+        },
+        {
+            "id": "f0423783-f426-4cdb-b1eb-4da510ac084b",
+            "location": {
+                "latitude": 39.74283666666667,
+                "longitude": -105.01603666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 81
+        },
+        {
+            "id": "e651604f-05c1-4ae8-b632-4e1add9e3830",
+            "location": {
+                "latitude": 39.74283166666667,
+                "longitude": -105.01605999999998
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 77
+        },
+        {
+            "id": "d471e117-9b7e-431f-ac70-3a82157bd3e9",
+            "location": {
+                "latitude": 39.74281,
+                "longitude": -105.016045
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 25
+        },
+        {
+            "id": "805957e0-7156-4431-89ec-41cf42ac07c3",
+            "location": {
+                "latitude": 39.733415,
+                "longitude": -104.987421
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "89fa8cf3-6ff2-454f-a289-51badfc7ee61",
+            "location": {
+                "latitude": 39.74283166666667,
+                "longitude": -105.01615833333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 69
+        },
+        {
+            "id": "1da0b982-e2dc-436e-8b0a-f580d4f0b8b3",
+            "location": {
+                "latitude": 39.733616,
+                "longitude": -104.998641
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 97
+        },
+        {
+            "id": "58daafc6-1c2e-4cbb-b708-fd3896a0dd05",
+            "location": {
+                "latitude": 39.74306833333333,
+                "longitude": -105.01667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 43
+        },
+        {
+            "id": "fb1c425c-37f8-4185-93f6-e929f7ca502d",
+            "location": {
+                "latitude": 39.74302333333333,
+                "longitude": -105.01670833333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 86
+        },
+        {
+            "id": "cfc82ec6-e293-4a84-a8f6-943c18ed9271",
+            "location": {
+                "latitude": 39.763888,
+                "longitude": -104.96432
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 80
+        },
+        {
+            "id": "5827c819-fb9c-40ba-9368-16b7056d3f9a",
+            "location": {
+                "latitude": 39.745557,
+                "longitude": -105.019218
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 85
+        },
+        {
+            "id": "1179726a-284a-4413-84d7-0369579cb69c",
+            "location": {
+                "latitude": 39.74556,
+                "longitude": -105.019229
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 83
+        },
+        {
+            "id": "61aedcca-5676-4f97-a9a6-950b3d0cb98b",
+            "location": {
+                "latitude": 39.74309166666667,
+                "longitude": -105.01762333333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 78
+        },
+        {
+            "id": "5eb51a01-f1d4-41c5-8a7e-aefc1b52cfa1",
+            "location": {
+                "latitude": 39.73371833333333,
+                "longitude": -104.98023166666665
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "064ee01c-01dd-4e1c-9398-d1af2af4353a",
+            "location": {
+                "latitude": 39.76949666666667,
+                "longitude": -104.96688
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 92
+        },
+        {
+            "id": "7bb6e5b3-c2c3-46f6-93ce-ea052556b469",
+            "location": {
+                "latitude": 39.769511666666666,
+                "longitude": -104.96688
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 78
+        },
+        {
+            "id": "cf545776-0897-4ebb-9abd-1b5a77fa2a17",
+            "location": {
+                "latitude": 39.73215166666667,
+                "longitude": -104.99858166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 87
+        },
+        {
+            "id": "2e2b8327-0a7d-4416-892e-7288055d0421",
+            "location": {
+                "latitude": 39.732174,
+                "longitude": -104.984924
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 74
+        },
+        {
+            "id": "ec0aa806-d367-44e0-9cac-33b76a6e4bb2",
+            "location": {
+                "latitude": 39.73688166666667,
+                "longitude": -104.97202333333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 81
+        },
+        {
+            "id": "8ce3e58c-3f52-4b68-a577-29d51967d991",
+            "location": {
+                "latitude": 39.733395,
+                "longitude": -105.005153
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 76
+        },
+        {
+            "id": "71874492-77c5-4dd5-bebf-28a51eb079b7",
+            "location": {
+                "latitude": 39.76917,
+                "longitude": -105.019234
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 96
+        },
+        {
+            "id": "bfe86051-8873-4fd7-a07e-d1d16aef166c",
+            "location": {
+                "latitude": 39.7692,
+                "longitude": -105.01923333333335
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 92
+        },
+        {
+            "id": "356c9bec-ffd6-4084-bebf-8e089561f8cc",
+            "location": {
+                "latitude": 39.738591,
+                "longitude": -105.015819
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 40
+        },
+        {
+            "id": "a400a9c8-b949-4860-a17d-8ec22cb74191",
+            "location": {
+                "latitude": 39.76920666666667,
+                "longitude": -105.01925666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 97
+        },
+        {
+            "id": "b275a290-559a-42c2-a26d-6ccfb6a30a92",
+            "location": {
+                "latitude": 39.73861333333333,
+                "longitude": -105.01586166666667
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 63
+        },
+        {
+            "id": "bf5ba710-0b77-4ffa-acd8-93d205728503",
+            "location": {
+                "latitude": 39.730853333333336,
+                "longitude": -104.98492499999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 91
+        },
+        {
+            "id": "2b1f78f9-93ff-4a3d-b19d-0d0455122b2b",
+            "location": {
+                "latitude": 39.73073,
+                "longitude": -104.998717
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "6e89cfc6-38fb-4753-8927-4891c7ca6270",
+            "location": {
+                "latitude": 39.745688,
+                "longitude": -105.022509
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 82
+        },
+        {
+            "id": "9854638b-699c-4a55-b051-f6bb60120643",
+            "location": {
+                "latitude": 39.745729,
+                "longitude": -105.022572
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 86
+        },
+        {
+            "id": "011ad8cd-af24-4b7c-b435-7ebd846f6d38",
+            "location": {
+                "latitude": 39.73019,
+                "longitude": -104.98811333333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 80
+        },
+        {
+            "id": "0b2ef042-2827-492c-aae1-a1d5a1af5eb6",
+            "location": {
+                "latitude": 39.741371666666666,
+                "longitude": -105.02034
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 38
+        },
+        {
+            "id": "865f0220-1c0f-4d3a-9444-67abf6f184fc",
+            "location": {
+                "latitude": 39.72982833333333,
+                "longitude": -104.987625
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 97
+        },
+        {
+            "id": "77e9e03f-ae48-49bb-be1e-4398635879a8",
+            "location": {
+                "latitude": 39.729820000000004,
+                "longitude": -104.987625
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "b9fddf91-bcde-49aa-bf16-b24b03aec0dd",
+            "location": {
+                "latitude": 39.729823333333336,
+                "longitude": -104.98755666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 95
+        },
+        {
+            "id": "18cf3ccb-29c4-4d14-9abc-affc64f22ef2",
+            "location": {
+                "latitude": 39.72981666666667,
+                "longitude": -104.98755666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "5f644234-ad5b-4e00-86f3-01b6da71a7e9",
+            "location": {
+                "latitude": 39.729775000000004,
+                "longitude": -104.98767833333335
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 87
+        },
+        {
+            "id": "5797449f-11a7-46a6-940f-79cbc8e49049",
+            "location": {
+                "latitude": 39.739929999999994,
+                "longitude": -105.01980666666665
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 67
+        },
+        {
+            "id": "da997858-fffe-4546-ad47-4aa09dff87bc",
+            "location": {
+                "latitude": 39.74489666666667,
+                "longitude": -105.02372666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 54
+        },
+        {
+            "id": "f4eaaf7b-a705-40c0-85a9-7e4b79a37874",
+            "location": {
+                "latitude": 39.742275,
+                "longitude": -105.02223166666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 74
+        },
+        {
+            "id": "f4120693-82c8-4184-9b56-25a71279087c",
+            "location": {
+                "latitude": 39.72904166666667,
+                "longitude": -104.98761666666665
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 66
+        },
+        {
+            "id": "9c15a314-cc11-4624-bf8b-b43d66398753",
+            "location": {
+                "latitude": 39.739956666666664,
+                "longitude": -105.02042333333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 28
+        },
+        {
+            "id": "7ad710e7-4a12-428a-8a3a-b5b9facd4980",
+            "location": {
+                "latitude": 39.729238,
+                "longitude": -104.998819
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "d26a85e2-3701-4b14-b66e-ea5c7c463f65",
+            "location": {
+                "latitude": 39.74235833333333,
+                "longitude": -105.02250666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 82
+        },
+        {
+            "id": "8b8d8a48-d739-4122-ad3a-ceee36eca6e9",
+            "location": {
+                "latitude": 39.740895,
+                "longitude": -105.02144666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 42
+        },
+        {
+            "id": "12b949f0-dfd9-4ccd-a614-524a47b60408",
+            "location": {
+                "latitude": 39.76369833333333,
+                "longitude": -105.02583333333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 92
+        },
+        {
+            "id": "1f0e4e0d-0f78-4258-a71d-8a4ce93f5904",
+            "location": {
+                "latitude": 39.73253666666667,
+                "longitude": -104.97296833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 89
+        },
+        {
+            "id": "8e25ef3f-ecd0-4b5e-92a7-c1b4b6bb8da5",
+            "location": {
+                "latitude": 39.730533333333334,
+                "longitude": -104.97650833333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 97
+        },
+        {
+            "id": "29cc759d-88bc-4491-8191-1136baffad40",
+            "location": {
+                "latitude": 39.73053,
+                "longitude": -104.97650166666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "6e4e8843-91ff-4379-b2ca-a6f3f8b239bd",
+            "location": {
+                "latitude": 39.73039166666667,
+                "longitude": -104.97608999999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 91
+        },
+        {
+            "id": "5b8b6b0f-febe-4e11-86fa-bf5143a4e17e",
+            "location": {
+                "latitude": 39.743073333333335,
+                "longitude": -105.02490166666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 65
+        },
+        {
+            "id": "96d0836b-e1eb-4f6d-ac55-ddc1817b0b01",
+            "location": {
+                "latitude": 39.741558,
+                "longitude": -105.023861
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 83
+        },
+        {
+            "id": "064678c1-085b-4e77-85d3-666307d9daaa",
+            "location": {
+                "latitude": 39.741513,
+                "longitude": -105.023883
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 75
+        },
+        {
+            "id": "e16b9d04-94ba-46bc-bc7e-86e8d2d42745",
+            "location": {
+                "latitude": 39.76363,
+                "longitude": -105.02787000000002
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 51
+        },
+        {
+            "id": "18a5c39f-8448-4b6c-a590-d312736eae52",
+            "location": {
+                "latitude": 39.73364333333333,
+                "longitude": -104.96739166666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 52
+        },
+        {
+            "id": "154719c7-4348-4976-ad46-da3dd8eefde8",
+            "location": {
+                "latitude": 39.76207333333333,
+                "longitude": -105.030045
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 64
+        },
+        {
+            "id": "24b1c5b8-a8d4-4a23-94ef-2c554928c12e",
+            "location": {
+                "latitude": 39.765633,
+                "longitude": -105.029433
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 84
+        },
+        {
+            "id": "0e88ca9d-acef-49f3-9b60-e0794578d4e1",
+            "location": {
+                "latitude": 39.724509,
+                "longitude": -104.977529
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 61
+        },
+        {
+            "id": "bcd1ce7c-42f4-47a6-836e-474eb15c6d7f",
+            "location": {
+                "latitude": 39.724476,
+                "longitude": -104.977343
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "e60a4b2a-907c-4c58-b720-f3ad4f068d00",
+            "location": {
+                "latitude": 39.785399999999996,
+                "longitude": -105.02597833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "d60237c9-e2e5-47ad-bd30-2c32deff7127",
+            "location": {
+                "latitude": 39.78557524740676,
+                "longitude": -105.03762806775516
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 98
+        },
+        {
+            "id": "868732ae-a682-4ac3-8409-67f16f1a1568",
+            "location": {
+                "latitude": 39.785583333333335,
+                "longitude": -105.03764333333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 100
+        },
+        {
+            "id": "57909f77-2234-4926-9efb-43c353ed58f3",
+            "location": {
+                "latitude": 39.78561333333334,
+                "longitude": -105.03762833333333
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 99
+        },
+        {
+            "id": "f4473b1c-e64e-4887-83ce-e115a80c52e0",
+            "location": {
+                "latitude": 39.803147,
+                "longitude": -104.987079
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 92
+        },
+        {
+            "id": "61a36a84-536a-4049-9459-1f6d0144a18c",
+            "location": {
+                "latitude": 39.788821666666664,
+                "longitude": -105.03716333333332
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 92
+        },
+        {
+            "id": "92258aa0-5a2d-4bce-b83d-fa9a2c094067",
+            "location": {
+                "latitude": 39.772731666666665,
+                "longitude": -105.06192000000001
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 54
+        },
+        {
+            "id": "13c7ef58-f28b-4e9b-a5df-698ebf09df4e",
+            "location": {
+                "latitude": 39.77271666666666,
+                "longitude": -105.06192833333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 62
+        },
+        {
+            "id": "7924d4c0-045e-4b85-86ba-b2e712dd0b30",
+            "location": {
+                "latitude": 39.77272,
+                "longitude": -105.06192833333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 67
+        },
+        {
+            "id": "afaeae51-1234-465b-9492-e04d1c2d074b",
+            "location": {
+                "latitude": 39.77272333333334,
+                "longitude": -105.06192833333334
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 88
+        },
+        {
+            "id": "ba07940e-0bcd-408a-9fe0-5d3a41b53d96",
+            "location": {
+                "latitude": 39.772708333333334,
+                "longitude": -105.06193499999999
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 47
+        },
+        {
+            "id": "dc712ae0-1e24-4163-9a5b-9163085cab81",
+            "location": {
+                "latitude": 39.772758,
+                "longitude": -105.061954
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 65
+        },
+        {
+            "id": "abcfa969-a030-4de0-b8a9-71eb362b2e07",
+            "location": {
+                "latitude": 39.698433333333334,
+                "longitude": -105.01529666666666
+            },
+            "code": "",
+            "captive": false,
+            "battery_level": 95
+        }
+    ],
+    "clusters": [],
+    "areas": []
+}

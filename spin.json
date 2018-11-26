@@ -1,0 +1,164 @@
+{
+  "vehicles": [
+    {
+      "lat": 39.757463604587116,
+      "lng": -104.99031071929147,
+      "last4": "1468",
+      "vehicle_type": "scooter",
+      "batt_percentage": 32,
+      "rebalance": null
+    },
+    {
+      "lat": 39.75557,
+      "lng": -104.98906,
+      "last4": "6703",
+      "vehicle_type": "scooter",
+      "batt_percentage": 70,
+      "rebalance": null
+    },
+    {
+      "lat": 39.75560294467933,
+      "lng": -104.98899810957255,
+      "last4": "3133",
+      "vehicle_type": "scooter",
+      "batt_percentage": 70,
+      "rebalance": null
+    },
+    {
+      "lat": 39.7566106,
+      "lng": -104.9891226,
+      "last4": "6390",
+      "vehicle_type": "scooter",
+      "batt_percentage": 53,
+      "rebalance": null
+    },
+    {
+      "lat": 39.75770185705252,
+      "lng": -104.99013695875647,
+      "last4": "9539",
+      "vehicle_type": "scooter",
+      "batt_percentage": 31,
+      "rebalance": null
+    },
+    {
+      "lat": 39.75348119162,
+      "lng": -104.99572500596288,
+      "last4": "7900",
+      "vehicle_type": "scooter",
+      "batt_percentage": 90,
+      "rebalance": null
+    },
+    {
+      "lat": 39.76421758374854,
+      "lng": -104.99871060536296,
+      "last4": "1964",
+      "vehicle_type": "scooter",
+      "batt_percentage": 37,
+      "rebalance": null
+    },
+    {
+      "lat": 39.744644199999996,
+      "lng": -104.9860246,
+      "last4": "5855",
+      "vehicle_type": "scooter",
+      "batt_percentage": 62,
+      "rebalance": null
+    },
+    {
+      "lat": 39.743545499999996,
+      "lng": -104.997016,
+      "last4": "2540",
+      "vehicle_type": "scooter",
+      "batt_percentage": 33,
+      "rebalance": null
+    },
+    {
+      "lat": 39.74882558923191,
+      "lng": -105.0060836971784,
+      "last4": "4654",
+      "vehicle_type": "scooter",
+      "batt_percentage": 39,
+      "rebalance": null
+    },
+    {
+      "lat": 39.74351,
+      "lng": -104.9852,
+      "last4": "7898",
+      "vehicle_type": "scooter",
+      "batt_percentage": 55,
+      "rebalance": null
+    },
+    {
+      "lat": 39.7734446,
+      "lng": -104.98908499999999,
+      "last4": "0788",
+      "vehicle_type": "scooter",
+      "batt_percentage": 50,
+      "rebalance": null
+    },
+    {
+      "lat": 39.7369,
+      "lng": -104.9998,
+      "last4": "2078",
+      "vehicle_type": "scooter",
+      "batt_percentage": 85,
+      "rebalance": null
+    },
+    {
+      "lat": 39.734864099999996,
+      "lng": -104.9874272,
+      "last4": "7587",
+      "vehicle_type": "scooter",
+      "batt_percentage": 59,
+      "rebalance": null
+    },
+    {
+      "lat": 39.734864099999996,
+      "lng": -104.9874272,
+      "last4": "4573",
+      "vehicle_type": "scooter",
+      "batt_percentage": 64,
+      "rebalance": null
+    },
+    {
+      "lat": 39.73410929827112,
+      "lng": -104.98598527040022,
+      "last4": "5232",
+      "vehicle_type": "scooter",
+      "batt_percentage": 100,
+      "rebalance": null
+    },
+    {
+      "lat": 39.74275,
+      "lng": -105.0159,
+      "last4": "9087",
+      "vehicle_type": "scooter",
+      "batt_percentage": 56,
+      "rebalance": null
+    },
+    {
+      "lat": 39.74277,
+      "lng": -105.01592,
+      "last4": "0164",
+      "vehicle_type": "scooter",
+      "batt_percentage": 58,
+      "rebalance": null
+    },
+    {
+      "lat": 39.74287,
+      "lng": -105.01605,
+      "last4": "2853",
+      "vehicle_type": "scooter",
+      "batt_percentage": 41,
+      "rebalance": null
+    },
+    {
+      "lat": 39.74267,
+      "lng": -105.0163,
+      "last4": "7469",
+      "vehicle_type": "scooter",
+      "batt_percentage": 40,
+      "rebalance": null
+    }
+  ]
+}

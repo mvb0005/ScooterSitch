@@ -1,0 +1,4351 @@
+{
+  "rideables": [
+    {
+      "rideable_id": "1185724083546430860",
+      "rideable_name": "152-650",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543172597556,
+      "battery_status": {
+        "percent": 52,
+        "distance_remaining": {
+          "value": 8.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99153133333333,
+        "lat": 39.75648966666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236913,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236967,
+      "server_state_last_updated_ms": 1543172597556
+    },
+    {
+      "rideable_id": "1194645362671899744",
+      "rideable_name": "786-588",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543183854559,
+      "battery_status": {
+        "percent": 64,
+        "distance_remaining": {
+          "value": 10.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99083983333334,
+        "lat": 39.75414683333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236037,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236090,
+      "server_state_last_updated_ms": 1543183854559
+    },
+    {
+      "rideable_id": "1176638735858972624",
+      "rideable_name": "485-538",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543183860111,
+      "battery_status": {
+        "percent": 70,
+        "distance_remaining": {
+          "value": 11.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99083366666666,
+        "lat": 39.7541125,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232699,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232767,
+      "server_state_last_updated_ms": 1543183860111
+    },
+    {
+      "rideable_id": "1184536236765668284",
+      "rideable_name": "853-540",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187362219,
+      "battery_status": {
+        "percent": 75,
+        "distance_remaining": {
+          "value": 12.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99103466666666,
+        "lat": 39.757457,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236551,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236612,
+      "server_state_last_updated_ms": 1543187362219
+    },
+    {
+      "rideable_id": "1177435586526494922",
+      "rideable_name": "006-343",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186057908,
+      "battery_status": {
+        "percent": 71,
+        "distance_remaining": {
+          "value": 11.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99201,
+        "lat": 39.75355483333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239641,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239701,
+      "server_state_last_updated_ms": 1543186057908
+    },
+    {
+      "rideable_id": "1177427909685824780",
+      "rideable_name": "741-215",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543184556434,
+      "battery_status": {
+        "percent": 73,
+        "distance_remaining": {
+          "value": 11.7,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99530716666666,
+        "lat": 39.75371,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237678,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190237728,
+      "server_state_last_updated_ms": 1543184556434
+    },
+    {
+      "rideable_id": "1184177015126597820",
+      "rideable_name": "787-735",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189682224,
+      "battery_status": {
+        "percent": 52,
+        "distance_remaining": {
+          "value": 8.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99415166666667,
+        "lat": 39.751903166666665,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190235400,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235460,
+      "server_state_last_updated_ms": 1543189682224
+    },
+    {
+      "rideable_id": "1176642790177952898",
+      "rideable_name": "187-752",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543145454509,
+      "battery_status": {
+        "percent": 79,
+        "distance_remaining": {
+          "value": 12.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98725916666666,
+        "lat": 39.757896,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232496,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232543,
+      "server_state_last_updated_ms": 1543145454509
+    },
+    {
+      "rideable_id": "1184174213509819084",
+      "rideable_name": "956-985",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189863940,
+      "battery_status": {
+        "percent": 55,
+        "distance_remaining": {
+          "value": 8.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99429183333334,
+        "lat": 39.7516975,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231493,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231557,
+      "server_state_last_updated_ms": 1543189863940
+    },
+    {
+      "rideable_id": "1184535429450660296",
+      "rideable_name": "041-996",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543170970495,
+      "battery_status": {
+        "percent": 73,
+        "distance_remaining": {
+          "value": 11.7,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.991675,
+        "lat": 39.76035783333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237217,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190237263,
+      "server_state_last_updated_ms": 1543170970495
+    },
+    {
+      "rideable_id": "1184177824363599466",
+      "rideable_name": "673-717",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189620838,
+      "battery_status": {
+        "percent": 66,
+        "distance_remaining": {
+          "value": 10.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.987807,
+        "lat": 39.759212166666664,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232822,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232888,
+      "server_state_last_updated_ms": 1543189620838
+    },
+    {
+      "rideable_id": "1184173750751435232",
+      "rideable_name": "063-941",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189628585,
+      "battery_status": {
+        "percent": 29,
+        "distance_remaining": {
+          "value": 4.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98586416666667,
+        "lat": 39.75424683333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234919,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235010,
+      "server_state_last_updated_ms": 1543189628585
+    },
+    {
+      "rideable_id": "1195080807709154996",
+      "rideable_name": "380-852",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543165810735,
+      "battery_status": {
+        "percent": 76,
+        "distance_remaining": {
+          "value": 12.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98673366666667,
+        "lat": 39.758956166666664,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190235566,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235632,
+      "server_state_last_updated_ms": 1543165810735
+    },
+    {
+      "rideable_id": "1177357238135822922",
+      "rideable_name": "330-730",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186897767,
+      "battery_status": {
+        "percent": 68,
+        "distance_remaining": {
+          "value": 10.9,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.998689,
+        "lat": 39.754093,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233724,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233807,
+      "server_state_last_updated_ms": 1543186897767
+    },
+    {
+      "rideable_id": "1176730200312970058",
+      "rideable_name": "663-191",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187138920,
+      "battery_status": {
+        "percent": 97,
+        "distance_remaining": {
+          "value": 15.5,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9987465,
+        "lat": 39.75408133333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190230682,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190230779,
+      "server_state_last_updated_ms": 1543187138920
+    },
+    {
+      "rideable_id": "1176638237750622388",
+      "rideable_name": "862-660",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186930211,
+      "battery_status": {
+        "percent": 46,
+        "distance_remaining": {
+          "value": 7.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99875466666667,
+        "lat": 39.75405683333334,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233795,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233857,
+      "server_state_last_updated_ms": 1543186930211
+    },
+    {
+      "rideable_id": "1176335724367401812",
+      "rideable_name": "520-311",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186938766,
+      "battery_status": {
+        "percent": 56,
+        "distance_remaining": {
+          "value": 9.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99877283333333,
+        "lat": 39.754088833333334,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236666,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236743,
+      "server_state_last_updated_ms": 1543186938766
+    },
+    {
+      "rideable_id": "1184181122435727710",
+      "rideable_name": "698-327",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187066428,
+      "battery_status": {
+        "percent": 72,
+        "distance_remaining": {
+          "value": 11.5,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.998777,
+        "lat": 39.754057333333336,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238841,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238898,
+      "server_state_last_updated_ms": 1543187066428
+    },
+    {
+      "rideable_id": "1184179707763395896",
+      "rideable_name": "503-986",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186892441,
+      "battery_status": {
+        "percent": 69,
+        "distance_remaining": {
+          "value": 11.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99879316666667,
+        "lat": 39.75403766666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234273,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234331,
+      "server_state_last_updated_ms": 1543186892441
+    },
+    {
+      "rideable_id": "1182235040277797414",
+      "rideable_name": "392-770",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186883448,
+      "battery_status": {
+        "percent": 44,
+        "distance_remaining": {
+          "value": 7.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9988425,
+        "lat": 39.75405583333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190235129,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235195,
+      "server_state_last_updated_ms": 1543186883448
+    },
+    {
+      "rideable_id": "1183289224603236690",
+      "rideable_name": "452-117",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187008893,
+      "battery_status": {
+        "percent": 74,
+        "distance_remaining": {
+          "value": 11.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99884483333334,
+        "lat": 39.7540095,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229670,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229892,
+      "server_state_last_updated_ms": 1543187008893
+    },
+    {
+      "rideable_id": "1176322974077185846",
+      "rideable_name": "773-335",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188354276,
+      "battery_status": {
+        "percent": 65,
+        "distance_remaining": {
+          "value": 10.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99876066666667,
+        "lat": 39.7537325,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229883,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229964,
+      "server_state_last_updated_ms": 1543188354276
+    },
+    {
+      "rideable_id": "1184179020676308940",
+      "rideable_name": "373-309",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186899955,
+      "battery_status": {
+        "percent": 39,
+        "distance_remaining": {
+          "value": 6.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99889316666666,
+        "lat": 39.75400916666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232591,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232650,
+      "server_state_last_updated_ms": 1543186899955
+    },
+    {
+      "rideable_id": "1184174786038572368",
+      "rideable_name": "198-960",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186754848,
+      "battery_status": {
+        "percent": 62,
+        "distance_remaining": {
+          "value": 9.9,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99881016666667,
+        "lat": 39.75380716666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238739,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238791,
+      "server_state_last_updated_ms": 1543186754848
+    },
+    {
+      "rideable_id": "1196690733091499648",
+      "rideable_name": "246-443",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188366010,
+      "battery_status": {
+        "percent": 57,
+        "distance_remaining": {
+          "value": 9.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99879033333333,
+        "lat": 39.75376583333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231066,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231118,
+      "server_state_last_updated_ms": 1543188366010
+    },
+    {
+      "rideable_id": "1176343840440887500",
+      "rideable_name": "314-465",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186623956,
+      "battery_status": {
+        "percent": 69,
+        "distance_remaining": {
+          "value": 11.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99884583333333,
+        "lat": 39.7537835,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231107,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231162,
+      "server_state_last_updated_ms": 1543186623956
+    },
+    {
+      "rideable_id": "1174744047563306078",
+      "rideable_name": "866-084",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186686881,
+      "battery_status": {
+        "percent": 54,
+        "distance_remaining": {
+          "value": 8.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.998861,
+        "lat": 39.75379266666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239113,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239163,
+      "server_state_last_updated_ms": 1543186686881
+    },
+    {
+      "rideable_id": "1184534915730660838",
+      "rideable_name": "660-674",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543190005185,
+      "battery_status": {
+        "percent": 52,
+        "distance_remaining": {
+          "value": 8.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99884816666666,
+        "lat": 39.75777516666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238873,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238929,
+      "server_state_last_updated_ms": 1543190005185
+    },
+    {
+      "rideable_id": "1184169729563962294",
+      "rideable_name": "808-981",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187120203,
+      "battery_status": {
+        "percent": 96,
+        "distance_remaining": {
+          "value": 15.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9990085,
+        "lat": 39.75391666666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232332,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232405,
+      "server_state_last_updated_ms": 1543187120203
+    },
+    {
+      "rideable_id": "1176644842774524018",
+      "rideable_name": "131-825",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543180202470,
+      "battery_status": {
+        "percent": 63,
+        "distance_remaining": {
+          "value": 10.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98932866666667,
+        "lat": 39.75007566666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233648,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233714,
+      "server_state_last_updated_ms": 1543180202470
+    },
+    {
+      "rideable_id": "1184536847791175790",
+      "rideable_name": "543-392",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543180204231,
+      "battery_status": {
+        "percent": 54,
+        "distance_remaining": {
+          "value": 8.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98929866666667,
+        "lat": 39.7500765,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229216,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229287,
+      "server_state_last_updated_ms": 1543180204231
+    },
+    {
+      "rideable_id": "1184173431619388488",
+      "rideable_name": "831-122",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543182438133,
+      "battery_status": {
+        "percent": 58,
+        "distance_remaining": {
+          "value": 9.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98582383333333,
+        "lat": 39.759464,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237260,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190237311,
+      "server_state_last_updated_ms": 1543182438133
+    },
+    {
+      "rideable_id": "1184174173818714718",
+      "rideable_name": "582-103",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543185701099,
+      "battery_status": {
+        "percent": 73,
+        "distance_remaining": {
+          "value": 11.7,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99769333333333,
+        "lat": 39.75137516666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238241,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238310,
+      "server_state_last_updated_ms": 1543185701099
+    },
+    {
+      "rideable_id": "1177008103840628878",
+      "rideable_name": "053-042",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543185606981,
+      "battery_status": {
+        "percent": 64,
+        "distance_remaining": {
+          "value": 10.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99863416666666,
+        "lat": 39.752240666666665,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232003,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232063,
+      "server_state_last_updated_ms": 1543185606981
+    },
+    {
+      "rideable_id": "1184535597955693956",
+      "rideable_name": "231-490",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543184588962,
+      "battery_status": {
+        "percent": 54,
+        "distance_remaining": {
+          "value": 8.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9856685,
+        "lat": 39.759595,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237497,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190237542,
+      "server_state_last_updated_ms": 1543184588962
+    },
+    {
+      "rideable_id": "1175180996045704002",
+      "rideable_name": "888-698",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543173853632,
+      "battery_status": {
+        "percent": 55,
+        "distance_remaining": {
+          "value": 8.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98674033333333,
+        "lat": 39.75026366666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234199,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234256,
+      "server_state_last_updated_ms": 1543173853632
+    },
+    {
+      "rideable_id": "1184178420901298454",
+      "rideable_name": "087-674",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186651512,
+      "battery_status": {
+        "percent": 82,
+        "distance_remaining": {
+          "value": 13.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98445616666666,
+        "lat": 39.75961983333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233150,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233222,
+      "server_state_last_updated_ms": 1543186651512
+    },
+    {
+      "rideable_id": "1176322612683273036",
+      "rideable_name": "339-786",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543185771335,
+      "battery_status": {
+        "percent": 78,
+        "distance_remaining": {
+          "value": 12.5,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99146383333333,
+        "lat": 39.7486335,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232156,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232287,
+      "server_state_last_updated_ms": 1543185771335
+    },
+    {
+      "rideable_id": "1177008501355551690",
+      "rideable_name": "262-238",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543180809634,
+      "battery_status": {
+        "percent": 45,
+        "distance_remaining": {
+          "value": 7.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98292133333334,
+        "lat": 39.753599,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232321,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232377,
+      "server_state_last_updated_ms": 1543180809634
+    },
+    {
+      "rideable_id": "1176345629751521474",
+      "rideable_name": "677-943",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188976719,
+      "battery_status": {
+        "percent": 58,
+        "distance_remaining": {
+          "value": 9.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00057283333334,
+        "lat": 39.75227133333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229518,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229576,
+      "server_state_last_updated_ms": 1543188976719
+    },
+    {
+      "rideable_id": "1184175130854481224",
+      "rideable_name": "425-810",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187779233,
+      "battery_status": {
+        "percent": 73,
+        "distance_remaining": {
+          "value": 11.7,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.983901,
+        "lat": 39.759599333333334,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231582,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231655,
+      "server_state_last_updated_ms": 1543187779233
+    },
+    {
+      "rideable_id": "1176637841980014612",
+      "rideable_name": "104-853",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189103519,
+      "battery_status": {
+        "percent": 58,
+        "distance_remaining": {
+          "value": 9.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9839865,
+        "lat": 39.759722,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190230298,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190230357,
+      "server_state_last_updated_ms": 1543189103519
+    },
+    {
+      "rideable_id": "1184175053646938796",
+      "rideable_name": "359-946",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187548461,
+      "battery_status": {
+        "percent": 67,
+        "distance_remaining": {
+          "value": 10.7,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9838865,
+        "lat": 39.7596585,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229278,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229338,
+      "server_state_last_updated_ms": 1543187548461
+    },
+    {
+      "rideable_id": "1177431766566455846",
+      "rideable_name": "743-938",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543173441595,
+      "battery_status": {
+        "percent": 64,
+        "distance_remaining": {
+          "value": 10.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.985069,
+        "lat": 39.761335333333335,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232921,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232990,
+      "server_state_last_updated_ms": 1543173441595
+    },
+    {
+      "rideable_id": "1184176545677061028",
+      "rideable_name": "178-485",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543163111107,
+      "battery_status": {
+        "percent": 71,
+        "distance_remaining": {
+          "value": 11.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98251116666667,
+        "lat": 39.75283316666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229527,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229583,
+      "server_state_last_updated_ms": 1543163111107
+    },
+    {
+      "rideable_id": "1176343049000108152",
+      "rideable_name": "393-204",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188747956,
+      "battery_status": {
+        "percent": 59,
+        "distance_remaining": {
+          "value": 9.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.001925,
+        "lat": 39.75833433333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190230746,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190230857,
+      "server_state_last_updated_ms": 1543188747956
+    },
+    {
+      "rideable_id": "1184176030280985510",
+      "rideable_name": "906-113",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543183778602,
+      "battery_status": {
+        "percent": 58,
+        "distance_remaining": {
+          "value": 9.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00050733333333,
+        "lat": 39.750938833333336,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236860,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236910,
+      "server_state_last_updated_ms": 1543183778602
+    },
+    {
+      "rideable_id": "1184170035497045274",
+      "rideable_name": "889-510",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187194888,
+      "battery_status": {
+        "percent": 46,
+        "distance_remaining": {
+          "value": 7.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9997975,
+        "lat": 39.750249,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234891,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234960,
+      "server_state_last_updated_ms": 1543187194888
+    },
+    {
+      "rideable_id": "1184177970569805808",
+      "rideable_name": "637-257",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187120153,
+      "battery_status": {
+        "percent": 76,
+        "distance_remaining": {
+          "value": 12.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98932216666667,
+        "lat": 39.763547833333334,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232116,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232212,
+      "server_state_last_updated_ms": 1543187120153
+    },
+    {
+      "rideable_id": "1176999935163045570",
+      "rideable_name": "863-450",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187073506,
+      "battery_status": {
+        "percent": 76,
+        "distance_remaining": {
+          "value": 12.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9892145,
+        "lat": 39.76355316666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190230135,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190230184,
+      "server_state_last_updated_ms": 1543187073506
+    },
+    {
+      "rideable_id": "1174743835075824662",
+      "rideable_name": "157-546",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543178269686,
+      "battery_status": {
+        "percent": 78,
+        "distance_remaining": {
+          "value": 12.5,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98193216666667,
+        "lat": 39.75840933333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232053,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232120,
+      "server_state_last_updated_ms": 1543178269686
+    },
+    {
+      "rideable_id": "1177138903473330296",
+      "rideable_name": "375-592",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543179035191,
+      "battery_status": {
+        "percent": 61,
+        "distance_remaining": {
+          "value": 9.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9875175,
+        "lat": 39.74818883333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233496,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233626,
+      "server_state_last_updated_ms": 1543179035191
+    },
+    {
+      "rideable_id": "1177433903695338484",
+      "rideable_name": "760-538",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543190217426,
+      "battery_status": {
+        "percent": 55,
+        "distance_remaining": {
+          "value": 8.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00247933333333,
+        "lat": 39.7530995,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239490,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239556,
+      "server_state_last_updated_ms": 1543190217426
+    },
+    {
+      "rideable_id": "1184177143910320990",
+      "rideable_name": "309-452",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187589442,
+      "battery_status": {
+        "percent": 48,
+        "distance_remaining": {
+          "value": 7.7,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.000379,
+        "lat": 39.74981733333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232801,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233002,
+      "server_state_last_updated_ms": 1543187589442
+    },
+    {
+      "rideable_id": "1184169354688092074",
+      "rideable_name": "272-407",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187568112,
+      "battery_status": {
+        "percent": 54,
+        "distance_remaining": {
+          "value": 8.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00038616666667,
+        "lat": 39.74978083333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237504,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190237594,
+      "server_state_last_updated_ms": 1543187568112
+    },
+    {
+      "rideable_id": "1176643454825664708",
+      "rideable_name": "917-296",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543184166750,
+      "battery_status": {
+        "percent": 79,
+        "distance_remaining": {
+          "value": 12.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98103633333334,
+        "lat": 39.75371716666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190235175,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235234,
+      "server_state_last_updated_ms": 1543184166750
+    },
+    {
+      "rideable_id": "1176649378611275906",
+      "rideable_name": "313-420",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543185243339,
+      "battery_status": {
+        "percent": 49,
+        "distance_remaining": {
+          "value": 7.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.988597,
+        "lat": 39.7640635,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233223,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233421,
+      "server_state_last_updated_ms": 1543185243339
+    },
+    {
+      "rideable_id": "1184175856805823876",
+      "rideable_name": "560-805",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543164989379,
+      "battery_status": {
+        "percent": 77,
+        "distance_remaining": {
+          "value": 12.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98419783333334,
+        "lat": 39.7620685,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190230298,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190230418,
+      "server_state_last_updated_ms": 1543164989379
+    },
+    {
+      "rideable_id": "1184179325753707266",
+      "rideable_name": "883-938",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543179932850,
+      "battery_status": {
+        "percent": 61,
+        "distance_remaining": {
+          "value": 9.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98410016666666,
+        "lat": 39.762062666666665,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239663,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239721,
+      "server_state_last_updated_ms": 1543179932850
+    },
+    {
+      "rideable_id": "1184534819827541190",
+      "rideable_name": "045-539",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189334463,
+      "battery_status": {
+        "percent": 69,
+        "distance_remaining": {
+          "value": 11.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98688766666666,
+        "lat": 39.76380666666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233206,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233310,
+      "server_state_last_updated_ms": 1543189334463
+    },
+    {
+      "rideable_id": "1176999488313128800",
+      "rideable_name": "708-043",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189827019,
+      "battery_status": {
+        "percent": 64,
+        "distance_remaining": {
+          "value": 10.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99704433333333,
+        "lat": 39.747135166666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190240154,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190240219,
+      "server_state_last_updated_ms": 1543189827019
+    },
+    {
+      "rideable_id": "1184178337668827152",
+      "rideable_name": "439-646",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543184723589,
+      "battery_status": {
+        "percent": 58,
+        "distance_remaining": {
+          "value": 9.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.000843,
+        "lat": 39.74914783333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238194,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238257,
+      "server_state_last_updated_ms": 1543184723589
+    },
+    {
+      "rideable_id": "1182231296152168410",
+      "rideable_name": "854-322",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543152705093,
+      "battery_status": {
+        "percent": 80,
+        "distance_remaining": {
+          "value": 12.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98026883333333,
+        "lat": 39.7531055,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234735,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234799,
+      "server_state_last_updated_ms": 1543152705093
+    },
+    {
+      "rideable_id": "1181044256445631616",
+      "rideable_name": "125-161",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543147021202,
+      "battery_status": {
+        "percent": 82,
+        "distance_remaining": {
+          "value": 13.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.980262,
+        "lat": 39.7531015,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234231,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234292,
+      "server_state_last_updated_ms": 1543147021202
+    },
+    {
+      "rideable_id": "1184170203000770406",
+      "rideable_name": "819-675",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543147013806,
+      "battery_status": {
+        "percent": 83,
+        "distance_remaining": {
+          "value": 13.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98024933333333,
+        "lat": 39.75311633333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232335,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232464,
+      "server_state_last_updated_ms": 1543147013806
+    },
+    {
+      "rideable_id": "1177144201326120736",
+      "rideable_name": "842-298",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543147023899,
+      "battery_status": {
+        "percent": 80,
+        "distance_remaining": {
+          "value": 12.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98016033333333,
+        "lat": 39.75316866666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234408,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234462,
+      "server_state_last_updated_ms": 1543147023899
+    },
+    {
+      "rideable_id": "1177007426227824620",
+      "rideable_name": "881-396",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543155775661,
+      "battery_status": {
+        "percent": 80,
+        "distance_remaining": {
+          "value": 12.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98014666666667,
+        "lat": 39.75312316666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233814,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233901,
+      "server_state_last_updated_ms": 1543155775661
+    },
+    {
+      "rideable_id": "1177164101643715222",
+      "rideable_name": "507-344",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543147259900,
+      "battery_status": {
+        "percent": 80,
+        "distance_remaining": {
+          "value": 12.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97952033333334,
+        "lat": 39.75375783333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190235762,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235813,
+      "server_state_last_updated_ms": 1543147259900
+    },
+    {
+      "rideable_id": "1184169862707949008",
+      "rideable_name": "746-988",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543183027205,
+      "battery_status": {
+        "percent": 79,
+        "distance_remaining": {
+          "value": 12.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97948783333334,
+        "lat": 39.7537645,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229413,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229471,
+      "server_state_last_updated_ms": 1543183027205
+    },
+    {
+      "rideable_id": "1182235350601294050",
+      "rideable_name": "291-620",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543184013060,
+      "battery_status": {
+        "percent": 65,
+        "distance_remaining": {
+          "value": 10.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9875975,
+        "lat": 39.7649505,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232792,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232857,
+      "server_state_last_updated_ms": 1543184013060
+    },
+    {
+      "rideable_id": "1180007105770719962",
+      "rideable_name": "121-023",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543183013906,
+      "battery_status": {
+        "percent": 57,
+        "distance_remaining": {
+          "value": 9.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97945266666666,
+        "lat": 39.753853166666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234509,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234562,
+      "server_state_last_updated_ms": 1543183013906
+    },
+    {
+      "rideable_id": "1176731767976033220",
+      "rideable_name": "837-353",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189196419,
+      "battery_status": {
+        "percent": 54,
+        "distance_remaining": {
+          "value": 8.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97945016666667,
+        "lat": 39.753842666666664,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190204484,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190204593,
+      "server_state_last_updated_ms": 1543189196419
+    },
+    {
+      "rideable_id": "1180901779642932826",
+      "rideable_name": "932-727",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543171081079,
+      "battery_status": {
+        "percent": 63,
+        "distance_remaining": {
+          "value": 10.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97944316666667,
+        "lat": 39.753837833333336,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229070,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229130,
+      "server_state_last_updated_ms": 1543171081079
+    },
+    {
+      "rideable_id": "1176240363932347590",
+      "rideable_name": "620-990",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187600836,
+      "battery_status": {
+        "percent": 57,
+        "distance_remaining": {
+          "value": 9.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.981474,
+        "lat": 39.76130666666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231363,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231420,
+      "server_state_last_updated_ms": 1543187600836
+    },
+    {
+      "rideable_id": "1184175299902089012",
+      "rideable_name": "309-307",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543147224702,
+      "battery_status": {
+        "percent": 80,
+        "distance_remaining": {
+          "value": 12.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9794565,
+        "lat": 39.75372083333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190218790,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190219284,
+      "server_state_last_updated_ms": 1543147224702
+    },
+    {
+      "rideable_id": "1177139838396932686",
+      "rideable_name": "800-405",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543147268300,
+      "battery_status": {
+        "percent": 81,
+        "distance_remaining": {
+          "value": 13.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97940266666667,
+        "lat": 39.753805666666665,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238248,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238315,
+      "server_state_last_updated_ms": 1543147268300
+    },
+    {
+      "rideable_id": "1184537060574577256",
+      "rideable_name": "649-789",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188429652,
+      "battery_status": {
+        "percent": 81,
+        "distance_remaining": {
+          "value": 13.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97942116666667,
+        "lat": 39.7536865,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239365,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239430,
+      "server_state_last_updated_ms": 1543188429652
+    },
+    {
+      "rideable_id": "1177002302331839726",
+      "rideable_name": "550-791",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543165262191,
+      "battery_status": {
+        "percent": 80,
+        "distance_remaining": {
+          "value": 12.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97938916666666,
+        "lat": 39.753781000000004,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190235612,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235677,
+      "server_state_last_updated_ms": 1543165262191
+    },
+    {
+      "rideable_id": "1195271521605061780",
+      "rideable_name": "027-944",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187598276,
+      "battery_status": {
+        "percent": 38,
+        "distance_remaining": {
+          "value": 6.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9813855,
+        "lat": 39.7613245,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233286,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233483,
+      "server_state_last_updated_ms": 1543187598276
+    },
+    {
+      "rideable_id": "1184179064278403644",
+      "rideable_name": "935-845",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189262497,
+      "battery_status": {
+        "percent": 59,
+        "distance_remaining": {
+          "value": 9.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00101366666667,
+        "lat": 39.763020833333336,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238993,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239052,
+      "server_state_last_updated_ms": 1543189262497
+    },
+    {
+      "rideable_id": "1184180923239139586",
+      "rideable_name": "988-423",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189261373,
+      "battery_status": {
+        "percent": 65,
+        "distance_remaining": {
+          "value": 10.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00114683333334,
+        "lat": 39.762973,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237926,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238027,
+      "server_state_last_updated_ms": 1543189261373
+    },
+    {
+      "rideable_id": "1184173389195884438",
+      "rideable_name": "049-686",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543180801495,
+      "battery_status": {
+        "percent": 41,
+        "distance_remaining": {
+          "value": 6.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98568333333333,
+        "lat": 39.74630333333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239005,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239078,
+      "server_state_last_updated_ms": 1543180801495
+    },
+    {
+      "rideable_id": "1179878429773260972",
+      "rideable_name": "850-669",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186690355,
+      "battery_status": {
+        "percent": 68,
+        "distance_remaining": {
+          "value": 10.9,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99722783333333,
+        "lat": 39.74544183333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190230832,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190230887,
+      "server_state_last_updated_ms": 1543186690355
+    },
+    {
+      "rideable_id": "1184176636969458306",
+      "rideable_name": "528-224",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543170301219,
+      "battery_status": {
+        "percent": 79,
+        "distance_remaining": {
+          "value": 12.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.979602,
+        "lat": 39.7614575,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237825,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190237882,
+      "server_state_last_updated_ms": 1543170301219
+    },
+    {
+      "rideable_id": "1184534747936910030",
+      "rideable_name": "389-248",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543157189299,
+      "battery_status": {
+        "percent": 80,
+        "distance_remaining": {
+          "value": 12.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.979578,
+        "lat": 39.761461,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231171,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231232,
+      "server_state_last_updated_ms": 1543157189299
+    },
+    {
+      "rideable_id": "1184170095734266672",
+      "rideable_name": "881-832",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189888701,
+      "battery_status": {
+        "percent": 42,
+        "distance_remaining": {
+          "value": 6.7,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9812475,
+        "lat": 39.763205166666665,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229109,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229199,
+      "server_state_last_updated_ms": 1543189888701
+    },
+    {
+      "rideable_id": "1184168529591615656",
+      "rideable_name": "368-140",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543181530548,
+      "battery_status": {
+        "percent": 41,
+        "distance_remaining": {
+          "value": 6.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.989741,
+        "lat": 39.7445845,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239015,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239100,
+      "server_state_last_updated_ms": 1543181530548
+    },
+    {
+      "rideable_id": "1203325104457835366",
+      "rideable_name": "380-352",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186806565,
+      "battery_status": {
+        "percent": 69,
+        "distance_remaining": {
+          "value": 11.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98203316666667,
+        "lat": 39.747420166666664,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190230957,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231043,
+      "server_state_last_updated_ms": 1543186806565
+    },
+    {
+      "rideable_id": "1176311990660507834",
+      "rideable_name": "085-481",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543184974831,
+      "battery_status": {
+        "percent": 52,
+        "distance_remaining": {
+          "value": 8.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99150883333333,
+        "lat": 39.744321166666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236043,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236091,
+      "server_state_last_updated_ms": 1543184974831
+    },
+    {
+      "rideable_id": "1177001766846831324",
+      "rideable_name": "102-919",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186813484,
+      "battery_status": {
+        "percent": 69,
+        "distance_remaining": {
+          "value": 11.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99584983333334,
+        "lat": 39.744461,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231189,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231248,
+      "server_state_last_updated_ms": 1543186813484
+    },
+    {
+      "rideable_id": "1177000401535580846",
+      "rideable_name": "712-187",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188341213,
+      "battery_status": {
+        "percent": 61,
+        "distance_remaining": {
+          "value": 9.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.995264,
+        "lat": 39.744209833333336,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232040,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232094,
+      "server_state_last_updated_ms": 1543188341213
+    },
+    {
+      "rideable_id": "1184178291950410082",
+      "rideable_name": "549-328",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543182638070,
+      "battery_status": {
+        "percent": 54,
+        "distance_remaining": {
+          "value": 8.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00710833333333,
+        "lat": 39.75831066666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239585,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239651,
+      "server_state_last_updated_ms": 1543182638070
+    },
+    {
+      "rideable_id": "1184178461552259996",
+      "rideable_name": "447-860",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189347441,
+      "battery_status": {
+        "percent": 52,
+        "distance_remaining": {
+          "value": 8.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00459183333334,
+        "lat": 39.74869616666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234964,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235016,
+      "server_state_last_updated_ms": 1543189347441
+    },
+    {
+      "rideable_id": "1176689987560840412",
+      "rideable_name": "144-223",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187724826,
+      "battery_status": {
+        "percent": 60,
+        "distance_remaining": {
+          "value": 9.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9949915,
+        "lat": 39.743882,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236213,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236271,
+      "server_state_last_updated_ms": 1543187724826
+    },
+    {
+      "rideable_id": "1184537136019777354",
+      "rideable_name": "383-989",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543181035359,
+      "battery_status": {
+        "percent": 56,
+        "distance_remaining": {
+          "value": 9.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99921916666666,
+        "lat": 39.744926166666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236307,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236361,
+      "server_state_last_updated_ms": 1543181035359
+    },
+    {
+      "rideable_id": "1176643894379706400",
+      "rideable_name": "385-519",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187691607,
+      "battery_status": {
+        "percent": 51,
+        "distance_remaining": {
+          "value": 8.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.995069,
+        "lat": 39.743785,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239640,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239695,
+      "server_state_last_updated_ms": 1543187691607
+    },
+    {
+      "rideable_id": "1175181202017083224",
+      "rideable_name": "005-141",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189889764,
+      "battery_status": {
+        "percent": 56,
+        "distance_remaining": {
+          "value": 9.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00679983333333,
+        "lat": 39.760213,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233100,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233162,
+      "server_state_last_updated_ms": 1543189889764
+    },
+    {
+      "rideable_id": "1178117021504842404",
+      "rideable_name": "999-971",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187709177,
+      "battery_status": {
+        "percent": 56,
+        "distance_remaining": {
+          "value": 9.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99511133333333,
+        "lat": 39.74371883333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238173,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238242,
+      "server_state_last_updated_ms": 1543187709177
+    },
+    {
+      "rideable_id": "1180808768949969476",
+      "rideable_name": "317-259",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187694297,
+      "battery_status": {
+        "percent": 63,
+        "distance_remaining": {
+          "value": 10.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.995176,
+        "lat": 39.74370033333334,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233899,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233954,
+      "server_state_last_updated_ms": 1543187694297
+    },
+    {
+      "rideable_id": "1176643374293505886",
+      "rideable_name": "023-195",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187685708,
+      "battery_status": {
+        "percent": 62,
+        "distance_remaining": {
+          "value": 9.9,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99515133333334,
+        "lat": 39.743687666666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190240034,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190240101,
+      "server_state_last_updated_ms": 1543187685708
+    },
+    {
+      "rideable_id": "1184174532327804732",
+      "rideable_name": "249-093",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543190115460,
+      "battery_status": {
+        "percent": 69,
+        "distance_remaining": {
+          "value": 11.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98881233333333,
+        "lat": 39.743705,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237529,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190237603,
+      "server_state_last_updated_ms": 1543190115460
+    },
+    {
+      "rideable_id": "1183289284469179376",
+      "rideable_name": "780-000",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186549142,
+      "battery_status": {
+        "percent": 70,
+        "distance_remaining": {
+          "value": 11.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98845316666667,
+        "lat": 39.74374666666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236441,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236493,
+      "server_state_last_updated_ms": 1543186549142
+    },
+    {
+      "rideable_id": "1182230888313649120",
+      "rideable_name": "182-857",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187713811,
+      "battery_status": {
+        "percent": 56,
+        "distance_remaining": {
+          "value": 9.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9952065,
+        "lat": 39.74364283333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236771,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236828,
+      "server_state_last_updated_ms": 1543187713811
+    },
+    {
+      "rideable_id": "1184175995272265588",
+      "rideable_name": "350-461",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187688285,
+      "battery_status": {
+        "percent": 56,
+        "distance_remaining": {
+          "value": 9.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99523983333333,
+        "lat": 39.74362716666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239502,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239604,
+      "server_state_last_updated_ms": 1543187688285
+    },
+    {
+      "rideable_id": "1175180317253819882",
+      "rideable_name": "872-736",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187698997,
+      "battery_status": {
+        "percent": 50,
+        "distance_remaining": {
+          "value": 8.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99524333333333,
+        "lat": 39.743615166666665,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232804,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232868,
+      "server_state_last_updated_ms": 1543187698997
+    },
+    {
+      "rideable_id": "1177434887242848460",
+      "rideable_name": "137-164",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187697520,
+      "battery_status": {
+        "percent": 55,
+        "distance_remaining": {
+          "value": 8.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9952285,
+        "lat": 39.74359666666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229550,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229609,
+      "server_state_last_updated_ms": 1543187697520
+    },
+    {
+      "rideable_id": "1177163447577766986",
+      "rideable_name": "442-980",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186477106,
+      "battery_status": {
+        "percent": 62,
+        "distance_remaining": {
+          "value": 9.9,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00616416666666,
+        "lat": 39.7619975,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236462,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236534,
+      "server_state_last_updated_ms": 1543186477106
+    },
+    {
+      "rideable_id": "1184168617298369300",
+      "rideable_name": "280-561",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189324183,
+      "battery_status": {
+        "percent": 68,
+        "distance_remaining": {
+          "value": 10.9,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97630566666666,
+        "lat": 39.758940833333334,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190230742,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190230806,
+      "server_state_last_updated_ms": 1543189324183
+    },
+    {
+      "rideable_id": "1176729258524078222",
+      "rideable_name": "783-199",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543186465592,
+      "battery_status": {
+        "percent": 56,
+        "distance_remaining": {
+          "value": 9.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00617266666667,
+        "lat": 39.76204766666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236310,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236366,
+      "server_state_last_updated_ms": 1543186465592
+    },
+    {
+      "rideable_id": "1184175387268697114",
+      "rideable_name": "448-823",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543180809646,
+      "battery_status": {
+        "percent": 64,
+        "distance_remaining": {
+          "value": 10.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98314016666667,
+        "lat": 39.74479,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190228503,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190228583,
+      "server_state_last_updated_ms": 1543180809646
+    },
+    {
+      "rideable_id": "1184534096170570682",
+      "rideable_name": "507-361",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543182204453,
+      "battery_status": {
+        "percent": 65,
+        "distance_remaining": {
+          "value": 10.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98129916666667,
+        "lat": 39.74557683333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190235783,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235845,
+      "server_state_last_updated_ms": 1543182204453
+    },
+    {
+      "rideable_id": "1184178547131820114",
+      "rideable_name": "445-668",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543184694369,
+      "battery_status": {
+        "percent": 74,
+        "distance_remaining": {
+          "value": 11.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98375483333334,
+        "lat": 39.7671675,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234573,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234628,
+      "server_state_last_updated_ms": 1543184694369
+    },
+    {
+      "rideable_id": "1177162713392750926",
+      "rideable_name": "808-501",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543182558596,
+      "battery_status": {
+        "percent": 69,
+        "distance_remaining": {
+          "value": 11.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97772383333333,
+        "lat": 39.7632275,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237128,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190237220,
+      "server_state_last_updated_ms": 1543182558596
+    },
+    {
+      "rideable_id": "1178103762690201084",
+      "rideable_name": "498-875",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543182584742,
+      "battery_status": {
+        "percent": 68,
+        "distance_remaining": {
+          "value": 10.9,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97772466666666,
+        "lat": 39.7632805,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233387,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233459,
+      "server_state_last_updated_ms": 1543182584742
+    },
+    {
+      "rideable_id": "1177435263696595988",
+      "rideable_name": "358-202",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543146051105,
+      "battery_status": {
+        "percent": 79,
+        "distance_remaining": {
+          "value": 12.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.978139,
+        "lat": 39.764262,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229594,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229649,
+      "server_state_last_updated_ms": 1543146051105
+    },
+    {
+      "rideable_id": "1174743985399680050",
+      "rideable_name": "849-560",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543189831474,
+      "battery_status": {
+        "percent": 74,
+        "distance_remaining": {
+          "value": 11.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97812966666666,
+        "lat": 39.76426333333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233801,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233945,
+      "server_state_last_updated_ms": 1543189831474
+    },
+    {
+      "rideable_id": "1177430405061823818",
+      "rideable_name": "781-289",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543146057297,
+      "battery_status": {
+        "percent": 83,
+        "distance_remaining": {
+          "value": 13.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9781295,
+        "lat": 39.764282333333334,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233152,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233266,
+      "server_state_last_updated_ms": 1543146057297
+    },
+    {
+      "rideable_id": "1184169514609214406",
+      "rideable_name": "586-991",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543182739349,
+      "battery_status": {
+        "percent": 77,
+        "distance_remaining": {
+          "value": 12.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9789615,
+        "lat": 39.74624083333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238879,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238924,
+      "server_state_last_updated_ms": 1543182739349
+    },
+    {
+      "rideable_id": "1176639748943312354",
+      "rideable_name": "083-833",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187297647,
+      "battery_status": {
+        "percent": 61,
+        "distance_remaining": {
+          "value": 9.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98480416666666,
+        "lat": 39.742998666666665,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190240188,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190240245,
+      "server_state_last_updated_ms": 1543187297647
+    },
+    {
+      "rideable_id": "1184173564969757244",
+      "rideable_name": "067-890",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543175618302,
+      "battery_status": {
+        "percent": 56,
+        "distance_remaining": {
+          "value": 9.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98343,
+        "lat": 39.74337216666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231861,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231948,
+      "server_state_last_updated_ms": 1543175618302
+    },
+    {
+      "rideable_id": "1181564203931015558",
+      "rideable_name": "476-211",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187625835,
+      "battery_status": {
+        "percent": 57,
+        "distance_remaining": {
+          "value": 9.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97939616666666,
+        "lat": 39.76592183333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231014,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231081,
+      "server_state_last_updated_ms": 1543187625835
+    },
+    {
+      "rideable_id": "1184178249102607948",
+      "rideable_name": "649-022",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543187621437,
+      "battery_status": {
+        "percent": 59,
+        "distance_remaining": {
+          "value": 9.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97943866666667,
+        "lat": 39.765958499999996,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234890,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235000,
+      "server_state_last_updated_ms": 1543187621437
+    },
+    {
+      "rideable_id": "1184173519023219150",
+      "rideable_name": "063-990",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543149382495,
+      "battery_status": {
+        "percent": 83,
+        "distance_remaining": {
+          "value": 13.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98181616666666,
+        "lat": 39.743219,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237695,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190237783,
+      "server_state_last_updated_ms": 1543149382495
+    },
+    {
+      "rideable_id": "1180001088832954140",
+      "rideable_name": "177-235",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543149379357,
+      "battery_status": {
+        "percent": 82,
+        "distance_remaining": {
+          "value": 13.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9818375,
+        "lat": 39.7431985,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231308,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231357,
+      "server_state_last_updated_ms": 1543149379357
+    },
+    {
+      "rideable_id": "1177434307028981954",
+      "rideable_name": "849-412",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543149388696,
+      "battery_status": {
+        "percent": 79,
+        "distance_remaining": {
+          "value": 12.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98181116666666,
+        "lat": 39.74320083333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190233626,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190233686,
+      "server_state_last_updated_ms": 1543149388696
+    },
+    {
+      "rideable_id": "1184180360008135170",
+      "rideable_name": "851-527",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543149394160,
+      "battery_status": {
+        "percent": 82,
+        "distance_remaining": {
+          "value": 13.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98181983333333,
+        "lat": 39.74319116666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239334,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239409,
+      "server_state_last_updated_ms": 1543149394160
+    },
+    {
+      "rideable_id": "1184178771702926082",
+      "rideable_name": "588-986",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543149420128,
+      "battery_status": {
+        "percent": 80,
+        "distance_remaining": {
+          "value": 12.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.01135266666667,
+        "lat": 39.757953,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229066,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229118,
+      "server_state_last_updated_ms": 1543149420128
+    },
+    {
+      "rideable_id": "1184534429724588992",
+      "rideable_name": "200-763",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543190164352,
+      "battery_status": {
+        "percent": 28,
+        "distance_remaining": {
+          "value": 4.5,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9809155,
+        "lat": 39.743338666666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231014,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231067,
+      "server_state_last_updated_ms": 1543190164352
+    },
+    {
+      "rideable_id": "1177000981065780704",
+      "rideable_name": "616-351",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543190199076,
+      "battery_status": {
+        "percent": 38,
+        "distance_remaining": {
+          "value": 6.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98090033333334,
+        "lat": 39.74333016666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232557,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232626,
+      "server_state_last_updated_ms": 1543190199076
+    },
+    {
+      "rideable_id": "1177159393652207448",
+      "rideable_name": "568-967",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543180345186,
+      "battery_status": {
+        "percent": 45,
+        "distance_remaining": {
+          "value": 7.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.99269733333334,
+        "lat": 39.740253,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190230409,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190230466,
+      "server_state_last_updated_ms": 1543180345186
+    },
+    {
+      "rideable_id": "1177433334229518400",
+      "rideable_name": "880-060",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543185152024,
+      "battery_status": {
+        "percent": 61,
+        "distance_remaining": {
+          "value": 9.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.01068383333333,
+        "lat": 39.7616635,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239184,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239243,
+      "server_state_last_updated_ms": 1543185152024
+    },
+    {
+      "rideable_id": "1184176445679096320",
+      "rideable_name": "062-698",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543183180556,
+      "battery_status": {
+        "percent": 45,
+        "distance_remaining": {
+          "value": 7.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.01081233333333,
+        "lat": 39.761972166666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231933,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231997,
+      "server_state_last_updated_ms": 1543183180556
+    },
+    {
+      "rideable_id": "1182235383493182350",
+      "rideable_name": "189-007",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188483740,
+      "battery_status": {
+        "percent": 95,
+        "distance_remaining": {
+          "value": 15.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98634816666667,
+        "lat": 39.740494166666664,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190240068,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190240125,
+      "server_state_last_updated_ms": 1543188483740
+    },
+    {
+      "rideable_id": "1180777176059935810",
+      "rideable_name": "179-351",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188475774,
+      "battery_status": {
+        "percent": 95,
+        "distance_remaining": {
+          "value": 15.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.986324,
+        "lat": 39.74049633333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236310,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236366,
+      "server_state_last_updated_ms": 1543188475774
+    },
+    {
+      "rideable_id": "1184170786125916846",
+      "rideable_name": "112-546",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188118818,
+      "battery_status": {
+        "percent": 30,
+        "distance_remaining": {
+          "value": 4.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.989774,
+        "lat": 39.739959,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190235412,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235466,
+      "server_state_last_updated_ms": 1543188118818
+    },
+    {
+      "rideable_id": "1177430517757733590",
+      "rideable_name": "593-753",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188277781,
+      "battery_status": {
+        "percent": 98,
+        "distance_remaining": {
+          "value": 15.7,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98979666666666,
+        "lat": 39.73995466666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236247,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236309,
+      "server_state_last_updated_ms": 1543188277781
+    },
+    {
+      "rideable_id": "1177008753511352626",
+      "rideable_name": "796-806",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188113573,
+      "battery_status": {
+        "percent": 89,
+        "distance_remaining": {
+          "value": 14.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98975966666667,
+        "lat": 39.739957833333335,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239570,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239634,
+      "server_state_last_updated_ms": 1543188113573
+    },
+    {
+      "rideable_id": "1184176076311910124",
+      "rideable_name": "140-310",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188297705,
+      "battery_status": {
+        "percent": 95,
+        "distance_remaining": {
+          "value": 15.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98982183333334,
+        "lat": 39.73995,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190230378,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190230443,
+      "server_state_last_updated_ms": 1543188297705
+    },
+    {
+      "rideable_id": "1184535334961379392",
+      "rideable_name": "455-692",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188121136,
+      "battery_status": {
+        "percent": 36,
+        "distance_remaining": {
+          "value": 5.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98977066666667,
+        "lat": 39.73995383333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238553,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238610,
+      "server_state_last_updated_ms": 1543188121136
+    },
+    {
+      "rideable_id": "1184178848769937370",
+      "rideable_name": "259-580",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188260861,
+      "battery_status": {
+        "percent": 96,
+        "distance_remaining": {
+          "value": 15.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98977633333334,
+        "lat": 39.739953166666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229179,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229251,
+      "server_state_last_updated_ms": 1543188260861
+    },
+    {
+      "rideable_id": "1184537391691119512",
+      "rideable_name": "063-888",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188130419,
+      "battery_status": {
+        "percent": 48,
+        "distance_remaining": {
+          "value": 7.7,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98979533333333,
+        "lat": 39.73995,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238675,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238730,
+      "server_state_last_updated_ms": 1543188130419
+    },
+    {
+      "rideable_id": "1184180274941478964",
+      "rideable_name": "748-886",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188130489,
+      "battery_status": {
+        "percent": 47,
+        "distance_remaining": {
+          "value": 7.5,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.989792,
+        "lat": 39.73994966666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190229413,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190229480,
+      "server_state_last_updated_ms": 1543188130489
+    },
+    {
+      "rideable_id": "1177168646121855562",
+      "rideable_name": "771-692",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188488485,
+      "battery_status": {
+        "percent": 94,
+        "distance_remaining": {
+          "value": 15.0,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98635533333334,
+        "lat": 39.740471166666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190239349,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239403,
+      "server_state_last_updated_ms": 1543188488485
+    },
+    {
+      "rideable_id": "1184169043467278788",
+      "rideable_name": "389-803",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188478273,
+      "battery_status": {
+        "percent": 95,
+        "distance_remaining": {
+          "value": 15.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98631616666667,
+        "lat": 39.74047733333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231942,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232000,
+      "server_state_last_updated_ms": 1543188478273
+    },
+    {
+      "rideable_id": "1184181163757309090",
+      "rideable_name": "501-315",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188493216,
+      "battery_status": {
+        "percent": 96,
+        "distance_remaining": {
+          "value": 15.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98636116666667,
+        "lat": 39.74046583333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190227039,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190227138,
+      "server_state_last_updated_ms": 1543188493216
+    },
+    {
+      "rideable_id": "1178124988000434170",
+      "rideable_name": "526-293",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188267234,
+      "battery_status": {
+        "percent": 97,
+        "distance_remaining": {
+          "value": 15.5,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98977916666666,
+        "lat": 39.739943,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190217741,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190217793,
+      "server_state_last_updated_ms": 1543188267234
+    },
+    {
+      "rideable_id": "1184176927280167326",
+      "rideable_name": "097-102",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188109462,
+      "battery_status": {
+        "percent": 95,
+        "distance_remaining": {
+          "value": 15.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98975816666666,
+        "lat": 39.739944333333334,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190235831,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235889,
+      "server_state_last_updated_ms": 1543188109462
+    },
+    {
+      "rideable_id": "1185724548757799806",
+      "rideable_name": "773-012",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188294817,
+      "battery_status": {
+        "percent": 96,
+        "distance_remaining": {
+          "value": 15.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98974966666667,
+        "lat": 39.739944666666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190235676,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190235725,
+      "server_state_last_updated_ms": 1543188294817
+    },
+    {
+      "rideable_id": "1184175344319023988",
+      "rideable_name": "267-823",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543188480964,
+      "battery_status": {
+        "percent": 96,
+        "distance_remaining": {
+          "value": 15.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9863465,
+        "lat": 39.740456,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237231,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190237289,
+      "server_state_last_updated_ms": 1543188480964
+    },
+    {
+      "rideable_id": "1184180529730240732",
+      "rideable_name": "718-016",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543182726220,
+      "battery_status": {
+        "percent": 58,
+        "distance_remaining": {
+          "value": 9.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98300266666666,
+        "lat": 39.77005966666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238037,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190238105,
+      "server_state_last_updated_ms": 1543182726220
+    },
+    {
+      "rideable_id": "1176303293351733770",
+      "rideable_name": "055-277",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543185928842,
+      "battery_status": {
+        "percent": 65,
+        "distance_remaining": {
+          "value": 10.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.9798175,
+        "lat": 39.7688,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234078,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234145,
+      "server_state_last_updated_ms": 1543185928842
+    },
+    {
+      "rideable_id": "1177436559749958730",
+      "rideable_name": "653-008",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543185914130,
+      "battery_status": {
+        "percent": 51,
+        "distance_remaining": {
+          "value": 8.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97982233333333,
+        "lat": 39.768817166666665,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232739,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232818,
+      "server_state_last_updated_ms": 1543185914130
+    },
+    {
+      "rideable_id": "1177358258958771824",
+      "rideable_name": "801-362",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543149116685,
+      "battery_status": {
+        "percent": 82,
+        "distance_remaining": {
+          "value": 13.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97725383333334,
+        "lat": 39.743187166666665,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234741,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234811,
+      "server_state_last_updated_ms": 1543149116685
+    },
+    {
+      "rideable_id": "1184180317756431274",
+      "rideable_name": "490-277",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543149119671,
+      "battery_status": {
+        "percent": 78,
+        "distance_remaining": {
+          "value": 12.5,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.977226,
+        "lat": 39.743201,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231995,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232057,
+      "server_state_last_updated_ms": 1543149119671
+    },
+    {
+      "rideable_id": "1180906584049771014",
+      "rideable_name": "017-749",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543149122053,
+      "battery_status": {
+        "percent": 80,
+        "distance_remaining": {
+          "value": 12.8,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.97721116666666,
+        "lat": 39.74316316666667,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190238954,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190239076,
+      "server_state_last_updated_ms": 1543149122053
+    },
+    {
+      "rideable_id": "1176690799309658540",
+      "rideable_name": "626-503",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543185797831,
+      "battery_status": {
+        "percent": 71,
+        "distance_remaining": {
+          "value": 11.4,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98334883333334,
+        "lat": 39.740101833333334,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234706,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234766,
+      "server_state_last_updated_ms": 1543185797831
+    },
+    {
+      "rideable_id": "1177005437016151478",
+      "rideable_name": "775-220",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543185878454,
+      "battery_status": {
+        "percent": 70,
+        "distance_remaining": {
+          "value": 11.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.983783,
+        "lat": 39.7398965,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190231391,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190231451,
+      "server_state_last_updated_ms": 1543185878454
+    },
+    {
+      "rideable_id": "1176993089765625492",
+      "rideable_name": "205-540",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543185886891,
+      "battery_status": {
+        "percent": 70,
+        "distance_remaining": {
+          "value": 11.2,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -104.98374066666666,
+        "lat": 39.73990333333333,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190232135,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190232214,
+      "server_state_last_updated_ms": 1543185886891
+    },
+    {
+      "rideable_id": "1176322756446431392",
+      "rideable_name": "366-008",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543144028956,
+      "battery_status": {
+        "percent": 82,
+        "distance_remaining": {
+          "value": 13.1,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.00286583333333,
+        "lat": 39.740401166666665,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190234712,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190234774,
+      "server_state_last_updated_ms": 1543144028956
+    },
+    {
+      "rideable_id": "1184174744409294458",
+      "rideable_name": "940-608",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543144020360,
+      "battery_status": {
+        "percent": 83,
+        "distance_remaining": {
+          "value": 13.3,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.0028395,
+        "lat": 39.74036516666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190236153,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190236209,
+      "server_state_last_updated_ms": 1543144020360
+    },
+    {
+      "rideable_id": "1184168359789179886",
+      "rideable_name": "839-964",
+      "server_device_state": "STOP",
+      "client_device_state": "STOP",
+      "pending_state_last_updated_ms": 1543144022461,
+      "battery_status": {
+        "percent": 79,
+        "distance_remaining": {
+          "value": 12.6,
+          "unit": "miles"
+        }
+      },
+      "rideable_type": "electric_scooter",
+      "rideable_status": "available",
+      "supply_status": "available",
+      "fleet_status": "available",
+      "location": {
+        "lng": -105.0029895,
+        "lat": 39.740341666666666,
+        "place_name": ""
+      },
+      "client_last_reported_ms": 1543190237044,
+      "current_state": "STOP",
+      "last_updated_ms": 1543190237097,
+      "server_state_last_updated_ms": 1543144022461
+    }
+  ]
+}
